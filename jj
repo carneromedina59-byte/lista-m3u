@@ -1,0 +1,108 @@
+#EXTM3U
+
+
+#EXTINF:0,fubo sport
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
+
+
+#EXTINF:0,tvserie
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:0,LMB
+https://d1yqxv6gx128ca.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/9633a615-2a4f-412b-b2bd-7c89ddc323ef/2.m3u8
+
+
+#EXTINF:0,cam
+https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/chunklist_w527375508.m3u8
+
+
+
+#EXTINF:0,las estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
+
+
+#EXTINF:0,azt mundo
+https://azt-mun.otteravision.com/azt/mun/mun_480p.m3u8
+
+
+#EXTINF:0,telemundo
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+
+#EXTINF:0,MEX
+https://s5.mexside.net:1936/stream/stream/chunklist_w53340319.m3u8
+
+#EXTINF:0,14
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8      
+
+
+#EXTINF:0,ONCE
+https://s5.mexside.net:1936/respaldo/respaldo/chunklist_w542892825.m3u8
+
+
+#EXTINF:0,TV UNAM
+https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1874753134_DVR.m3u8
+
+
+#EXTINF:0,22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w432012015.m3u8
+
+#EXTINF:0,canela
+https://amg00658-amg00658c106-canelatv-international-7979.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-cinepicanteltus-canelatvinternational/cb543d167c6c64869dd43d65d0ef44a3f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725bdb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a8af1c56953145f596179bd318bd86d30e83448022f8099c93a68ace18d783907efc55ba67515c2129cbd67a92932adcb59e6c2f95722d791254e8a486ff4939f423293efdec91d40f9c1fc39d57e50a559521c236ee5a8b7bba36a5f440a4a1bead292b50a7c555642ba1abb49ca14059d067ebb2d6ce67738bf32b6d55c51fbc484916b1a7867ee7c71c92c465eff03f453ac1c810cc9cff85eae78f07c8239ec6b9c06e151f2e575ad008a19b3e8978df29ab947f4b394e4bbd8a54b6e5b33f603821ece257d76173d3bda2a2fd5f769d3a6b308069df5a3a78d524690e81479bb41d36e34c69813b29893b5fe112a6c7469fb2c8da1629bcc8c641e61d9edf65dce30ea552294a3da3e02549444f64e20f076741113cd677b2b0835a31428adac8e6c9503775417d3022aa922af406ecba443319d3472e20551d12840dd568a56d2199d50f7ba1ca2a75970b2423a4d357effddbf7bad2a2a6fbb02c967ededff83a273e1304d75657723d81e3df1d95523a9a17724ffb41119d7ecedf5e8d4077af2024a0bd69af2a6b17628add125300567259adfafa75fa51f89a11b59a850982bfcd5a728c32a70e078d90f258b8bcd1891f54d09d5e1731c38867dd25798e57f53b98de75efb5572d15280f1d91d91aac09f997b1ef1fb700e10f0f77e17dfbbbe6b0dd691fa7b242213c0450582e062f625cf68a9b344048edba26f454a9be06fe0c07657f62da854f0fd2b1394cd2653030d7d5a1e19ac30d14c579e735983071c179396eb09c76baf9fd9993aa665712d6a5a44aafd3e1acc5d5d8296d046a24e1af7a5170dd66bdcc30e8a31973f89ac982fe6b847ef63aab8ed57fb56c40aa43bd5022fb2a559f99d1ab8493ebc9793647421991/110/1280x720_3849560/index.m3u8
+
+#EXTINF:0,fmh kids
+
+#EXTINF:0,azteca uno
+https://amg00658-amg00658c58-canelatv-international-5438.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-aztecaunotvaztecamxappta-canelatvinternational/cb543d167c6c64869dd43d65d0ef44a3f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725bdb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a8af1c56953145f59641cf804fed87dd5383448022a0099c93a68ace42d187997eab06b3355e0e707f9a852e979322dcb08f7a068c6321501f56ffd1e2942132934b4f63edecf4af77f605cf8a3cdb0e5dd9099b3dec5aec428b2bf6ac19fad4d1b54351299bc64e6f23ace0d2e1915c30bc68feaee893676ac3bb7e1b43c069aa64417cc6a5c915dd964297fb2580e36b506cc6c544d6c5e1d4befdde12ca70c9c6a7ca6c401f605e77ec30a38a7de43ac977bacb2c344e4136c9f037eaa783345a014b88942cb7797ae981e7e9ba0d34da701a288b0ab80b5f07a6576071f15f9df05e42a87c7def5a39fe4e3c8347c3b42dfba0cee4013ec7baad20fa7cb5c560baff04a852284012b680483527625c8aba0c6e256bcf37a9b981e9631d10ffad82b1c352360235161c189dadf77c9a97c53b5215c952286e711c58971ec26cdc01041520c62c32cd6305edf9b2be87dd5d70622ef0e5b4998ed5c536cd15b1e1dc49e2bfc401c75e2b297cc7becd78f03d5977795cfa620cda46c13f308cb6c8f79485608ce80c189fd57511a6d3366c733a5062078b956bdf5ba8f477dcc99e0f9ebadf562def4d476c3f5124f93ed894155afb17193861b92df9f22ac06124c4169b068dc079dcb16fa17d565d65cd945df353b890cf897bda649a460d7ae56fa8dccd87963706a9c1117304005b412b0936345aec939545106be0b910e35fcde241e6170764711488c24875aedc5a30d0757269aea58baca8c9081f832ed77ddb6f0ea3185c7ab88268a4d3fca3bab46e5201cbbfe419e8f6c6d29a96ef2279443d64c28f0f1b27967682f96d8b9a1472eb869cf69a3fc707851b8fc4e77eaa6cda84d66783999eecf46418584e2595ecfef906d4af0543af01b568291f99caa9b452f2d4b8086ff91f87a1027da52a714dc3c9ae52284a4652c79881c0bac249cfb027300388b17c1d071381/56/1280x720_2890415/index.m3u8
+
+
+
+#EXTINF:0,nueve
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w1914806723.m3u8
+
+
+#EXTINF:0,estrella tv
+https://b.tubi1.apollo.adrise.io/live/estrellatv-mexico-xsubuu/1280x720.m3u8?content_type=mp4&language=es&pub_id=8a96984f11d60c369881f6e323ab2aa1&vpaid_enabled=false&device_id=3c7357ca-1161-4c41-af37-6b64c680f68a&tb.sid=7681d1f7-e019-4142-bbd9-e1482b774c0f&app_id=tubitv&app_mode=DEFAULT_MODE&playback_start_ts=1783082404&ap.sid=fe01a633-7302-4411-b35b-6594d51033c9&ap.ss=73c0342fdbd93bbb911ba2b50e923a07&gdpr=0&now_pos=0&ap.playback_start_ts=1783082405&ap.route=3S_FvUx2Sln1Lv0mWdLKvsnFt1g&ap.pt=0&platform=WEB&content_id=400000118
+
+
+
+
+
+#EXTINF:0,fox one
+https://a.tubi1.apollo.adrise.io/live/fox-en-tubi-tkyi3b/1280x720.m3u8?gdpr=0&platform=WEB&playback_start_ts=1783082509&ap.sid=fd327eb0-1ba1-434e-94a6-fa3fc41f2702&language=es&vpaid_enabled=false&pub_id=21f12146acbab325bb229e55010b88c3&ap.route=KqJWcE5_DVEg85ofwpPow4Gco5M&ap.pt=0&content_id=400000122&device_id=3c7357ca-1161-4c41-af37-6b64c680f68a&now_pos=0&tb.sid=f9193cb9-fe2c-4e75-8d44-5d828a72612a&content_type=mp4&ap.ss=e9a4749ce49ea05a50bed35f42870404&ap.playback_start_ts=1783082509&app_mode=DEFAULT_MODE&app_id=tubitv
+
+#EXTINF:0,cine
+https://player-analytics.mp.lura.live/
+
+#EXTINF:0,azteca newor
+https://b.tubi1.apollo.adrise.io/live/azteca-deportes-network-yvpjgz/1280x720.m3u8?content_id=400000160&device_id=3c7357ca-1161-4c41-af37-6b64c680f68a&ap.ss=2ec711736ab5e8ed27b1088db15f5004&playback_start_ts=1783083745&container_id=peliculas_80s_mx&app_id=tubitv&language=es&origin=container&platform=WEB&ap.playback_start_ts=1783083746&tb.sid=bc5e97b7-9496-4724-95da-b90b6e544df5&ap.sid=f204612f-3987-43af-80f8-ad7ffef46b23&now_pos=0&vpaid_enabled=false&ap.route=6-LevY8ld5SZNIkW0CLEO8AYeDc&app_mode=DEFAULT_MODE&gdpr=0&pub_id=8cb24e9555ab4ddd66090196932bcd78&content_type=mp4&ap.pt=0
+
+
+#EXTINF:0,nuestro cine
+
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/chunklist_w1340719361.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgMTowODoxMSBQTSZoYXNoX3ZhbHVlPW1XSFhBOG1RQTJ2WEdYUDV0Uy9zOGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9
+
+
+
+#EXTINF:0,itv
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/60b56be1000ea50835fa1e63/linear/hls/pa/event/2tBalxaHTg-QN-GgSPzs-g/stream/73b2648b-c962-43be-a185-93f3dfd62995:DLS/variant/04c865650aa119c672451756b970f008/bandwidth/1623600.m3u8?aid=5fea09a071a9945deebf5f7c&uid=Sz7F66iMzaOqkdIbHOljBfEfHMW9SlTD&sid=11LgeclIIhVetNPyQvd0OXy3egLjWuVE&pid=A6CQkN3TrMs7M4PvQvoQb2YzmNCo33Eb&pid_dvr=CuGKbXRR2rcN8wE9abbLcp1c5WF860px&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=73b2648b-c962-43be-a185-93f3dfd62995%3ADLS&CMCD=cid%3D%2260b56be1000ea50835fa1e63%22%2Cmtp%3D26500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22A6CQkN3TrMs7M4PvQvoQb2YzmNCo33Eb%22&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1783170609556&ot=xHWfVpgJ6KjhvYu4DmCpow&proto=https&pz=us&access_token=kLo7FLWLgodlYofziEq9FuNcryYLK7BfFZXfMFcMxo7fmLB8HhFds38H08EQjwu9eETOSM6TR8B
+
+
+#EXTINF:0,azteca7
+
+https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-gdai/69b0e201a4807b7097316af8/linear/hls/pa/event/Pqw3ERh_TsKTtop8s6dxgg/stream/d761f672-1c50-435a-8e75-c7c053278428:TUL/variant/7e0c3b805255082c768bea2c0793529d/bandwidth/1623600.m3u8?aid=5fea09a071a9945deebf5f7c&uid=Sz7F66iMzaOqkdIbHOljBfEfHMW9SlTD&sid=11LgeclIIhVetNPyQvd0OXy3egLjWuVE&pid=2MwPzTgyNo6PURgo3B3MsIno6qpCySLH&pid_dvr=F9IyhGdAMVnGqUXSvyEXkSB8yxH6g9Gk&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=C0GNzksEXoyf0BUIGh9gO6FyMZpMp7PuKVQ4L1nvHo8SRHe6ZxpjnOIVm7uRAVwIDjvdH94Zhw0&adInsertionGoogleStreamId=d761f672-1c50-435a-8e75-c7c053278428%3ATUL&CMCD=cid%3D%2269b0e201a4807b7097316af8%22%2Cmtp%3D15600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%222MwPzTgyNo6PURgo3B3MsIno6qpCySLH%22&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1783170730264&ot=ZV-DcfT3woFIkf0ZZgy-hA&proto=https&pz=us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
