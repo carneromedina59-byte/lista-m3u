@@ -1,0 +1,228 @@
+#EXTM3U
+
+
+#EXTINF:0,fubo sport
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
+
+
+#EXTINF:0,tvserie
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:0,LMB
+https://d1yqxv6gx128ca.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/9633a615-2a4f-412b-b2bd-7c89ddc323ef/2.m3u8
+
+
+#EXTINF:0,cam
+https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/chunklist_w527375508.m3u8
+
+
+
+#EXTINF:0,las estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
+
+
+#EXTINF:0,azt inter
+https://azt-mun.otteravision.com/azt/mun/mun_480p.m3u8
+
+
+#EXTINF:0,telemundo
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+
+#EXTINF:0,once 
+https://s5.mexside.net:1936/stream/stream/chunklist_w53340319.m3u8
+
+#EXTINF:0,14
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8      
+
+
+#EXTINF:0,ONCE
+https://s5.mexside.net:1936/respaldo/respaldo/chunklist_w542892825.m3u8
+
+
+#EXTINF:0,TV UNAM
+https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1874753134_DVR.m3u8
+
+
+#EXTINF:0,2.22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w432012015.m3u8
+
+
+
+
+
+#EXTINF:0,ski
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
+
+
+
+
+#EXTINF:0,nueve
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w1914806723.m3u8
+
+
+#EXTINF:0,estrella tv
+https://b.tubi1.apollo.adrise.io/live/estrellatv-mexico-xsubuu/1280x720.m3u8?content_type=mp4&language=es&pub_id=8a96984f11d60c369881f6e323ab2aa1&vpaid_enabled=false&device_id=3c7357ca-1161-4c41-af37-6b64c680f68a&tb.sid=7681d1f7-e019-4142-bbd9-e1482b774c0f&app_id=tubitv&app_mode=DEFAULT_MODE&playback_start_ts=1783082404&ap.sid=fe01a633-7302-4411-b35b-6594d51033c9&ap.ss=73c0342fdbd93bbb911ba2b50e923a07&gdpr=0&now_pos=0&ap.playback_start_ts=1783082405&ap.route=3S_FvUx2Sln1Lv0mWdLKvsnFt1g&ap.pt=0&platform=WEB&content_id=400000118
+
+
+
+
+
+#EXTINF:0,fox one
+https://a.tubi1.apollo.adrise.io/live/fox-en-tubi-tkyi3b/1280x720.m3u8?gdpr=0&platform=WEB&playback_start_ts=1783082509&ap.sid=fd327eb0-1ba1-434e-94a6-fa3fc41f2702&language=es&vpaid_enabled=false&pub_id=21f12146acbab325bb229e55010b88c3&ap.route=KqJWcE5_DVEg85ofwpPow4Gco5M&ap.pt=0&content_id=400000122&device_id=3c7357ca-1161-4c41-af37-6b64c680f68a&now_pos=0&tb.sid=f9193cb9-fe2c-4e75-8d44-5d828a72612a&content_type=mp4&ap.ss=e9a4749ce49ea05a50bed35f42870404&ap.playback_start_ts=1783082509&app_mode=DEFAULT_MODE&app_id=tubitv
+
+
+
+#EXTINF:0,azteca newor
+https://b.tubi1.apollo.adrise.io/live/azteca-deportes-network-yvpjgz/1280x720.m3u8?content_id=400000160&device_id=3c7357ca-1161-4c41-af37-6b64c680f68a&ap.ss=2ec711736ab5e8ed27b1088db15f5004&playback_start_ts=1783083745&container_id=peliculas_80s_mx&app_id=tubitv&language=es&origin=container&platform=WEB&ap.playback_start_ts=1783083746&tb.sid=bc5e97b7-9496-4724-95da-b90b6e544df5&ap.sid=f204612f-3987-43af-80f8-ad7ffef46b23&now_pos=0&vpaid_enabled=false&ap.route=6-LevY8ld5SZNIkW0CLEO8AYeDc&app_mode=DEFAULT_MODE&gdpr=0&pub_id=8cb24e9555ab4ddd66090196932bcd78&content_type=mp4&ap.pt=0
+
+
+#EXTINF:0,nuestro cine
+
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/chunklist_w1340719361.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgMTowODoxMSBQTSZoYXNoX3ZhbHVlPW1XSFhBOG1RQTJ2WEdYUDV0Uy9zOGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9
+
+
+#EXTINF:0,mexiquense
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w2095232215.m3u8
+
+
+#EXTINF:0,megacine
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0,region
+https://regionales.saohgdasregions.fun:9092/MTg3LjE4Ny4yMzAuNDM=/60_.m3u8?token=KCi7L0PzaCnchNpO5rnYWw&expires=1783129829
+
+#EXTINF:0,elchavo 
+https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0,itv
+https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
+
+
+#EXTINF:0,tele y
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w216013484.m3u8
+
+
+#EXTINF:0,teleplay
+https://player.tvstream.mx/livestream/teleplay/livehd/chunks.m3u8?nimblesessionid=39980939
+
+#EXTINF:0,trc
+https://5fe2654d6127d.streamlock.net/trc/videotrc/chunklist_w1637852125.m3u8
+
+
+#EXTINF:0,sipse
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+#EXTINF:0,salvador
+https://srspsn2.live/live/livestream.m3u8
+
+#EXTINF:0,seis
+https://stream.elseis.do/canal6/live_1080.m3u8
+
+#EXTINF:0,strean
+https://5ca3e84a76d30.streamlock.net/tves/videotves/chunklist_w294629111.m3u8
+
+#EXTINF:0,tves
+https://5ca3e84a76d30.streamlock.net/tves/videotves/chunklist_w986257144.m3u8
+
+
+#EXTINF:0,11
+https://stream.giostreaming.app/canal11/canal11.m3u8
+
+#EXTINF:0,17
+https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-gdai/65a1d2fd7e7f14355550d570/linear/hls/pa/event/xKksU77XTdiHFx8bMBpmOA/stream/c572ddbf-9b55-4640-9920-4a2e805dce1a:CHS/variant/4cb12c61d3ef1c379875ba76eab9557f/bandwidth/1623600.m3u8?aid=5fea09a071a9945deebf5f7c&adInsertionGoogleStreamId=c572ddbf-9b55-4640-9920-4a2e805dce1a%3ACHS&pid=ClismuyJwaJlCn4KYWS3QhwHxo686THj&sid=gtXPPMPAXePPis9n5PSfqlpEU0CTSXWz&uid=Sz7F66iMzaOqkdIbHOljBfEfHMW9SlTD&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1783258273649&ot=cmg8_-4AX1Jal6hj0TPxbw&proto=https&pz=us&access_token=0V5tcXHvNRBkTchVAQnlFZISSB7abSAGtAkN1dh4bJNHOWIlW07uGFgGf6eOka9WOZOrQeUpWZB
+
+
+#EXTINF:0,spn premiun
+https://khala.skylivehd.com/espnpremium/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=2159b2899ee62eda2b1ac8579217fd6d38957fe1-10-1783225773-1783171773
+
+#EXTINF:0,charapa tv
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+
+#EXTINF:0,azteca 7
+https://full-online.xyz/proxy/ssl/index.php?url=http%3A%2F%2F190.61.101.11%3A7050%2Fplay%2Fa09b%2F205344527_32cb.ts
+
+#EXTINF:0,selvatica
+https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+
+#EXTINF:0,tcsport
+https://khala.skylivehd.com/tycsports/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=a8961115c46df1905d1b80478c875efffaba5224-a0-1783226502-1783172502
+
+#EXTINF:0,dsport mas
+https://khala.skylivehd.com/dsportsplus/tracks-v1a1/2026/07/04/15/56/07-05000.ts?token=6aeedc37b5bf8a73547697f308e92510d624e24c-af-1783225533-1783171533
+
+#EXTINF:0,dsport plus
+https://khala.skylivehd.com/dsportsplus/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=e1cf1eeb5a2e027840933a2cba1f631e7f922a59-f7-1783223378-1783169378
+
+#EXTINF:0,dspor
+https://khala.skylivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=424dd4138d7e461c05d38a7bebe074a29fa876f5-2e-1783223509-1783169509
+
+#EXTINF:0,dspor2
+https://khala.skylivehd.com/dsports2/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=ef1257f4552fc8ab4cc66e1ff7efe8a596b15eb0-f7-1783223590-1783169590
+
+#EXTINF:0,spn argenntina
+https://khala.skylivehd.com/espnar/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=b5282feecd3e3291a6ba287a7794d7d00c1a608d-76-1783223645-1783169645
+
+#EXTINF:0,spn2
+https://khala.skylivehd.com/espn2/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=71b50c412a0a157e96dc2260964f3159eaa78fc9-9f-1783223828-1783169828
+
+#EXTINF:0,fox spor 3
+https://khala.skylivehd.com/fox3ar/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=b2ded5964ca1a630ef63a6352947ff7d1cfabcec-5d-1783223978-1783169978
+
+#EXTINF:0,fox 2
+https://khala.skylivehd.com/fox2ar/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=431834e7e1a8aed6745f24c47c8c506e9ade4e95-b7-1783224039-1783170039
+
+
+#EXTINF:0,fox
+https://khala.skylivehd.com/fox3ar/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=b2ded5964ca1a630ef63a6352947ff7d1cfabcec-5d-1783223978-1783169978
+
+
+#EXTINF:0,telemundo deportes
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
+
+#EXTINF:0,spn3
+https://khala.skylivehd.com/espn3/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=ab157297aaf71a6b4329cbae83eda2eba1f897b2-09-1783225722-1783171722
+
+
+#EXTINF:0,el chavo 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0,spn2 mexico
+https://khala.skylivehd.com/espn2mx/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=c9a955a364b8abebc846830e2a227b5a24ba18cb-93-1783226089-1783172089
+
+#EXTINF:0,spn3 mexico
+https://khala.skylivehd.com/espn3mx/index.m3u8?ip=187.187.230.43&token=fc5bdbe83976a9cdff71e0dc7e99e21d58b044f1-c9-1783226125-1783172125
+
+#EXTINF:0,spn4 mexico
+https://khala.skylivehd.com/espn4mx/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=69fd0f6ccaa4f219f992894a172dfb9d39e8f7fe-ca-1783226161-1783172161
+
+#EXTINF:0,spn mexico
+https://khala.skylivehd.com/espnmx/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=bc69feaaef609e7b3108f9b2ed06f49599ed2005-90-1783226187-1783172187
+
+#EXTINF:0,tcsport inter
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb543d167c6c64869dd43d65d0ef44a3f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725bdb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a8af1c56953145f59641ccd21ce983825d83448125f2099c93a68ace418087c27eaf02b1375c007325c0d67c92fbbcd7b0eb01c60fe2493c7c78dee1f5d34b248f444c2e8095a991448fde4a1447fb0d19b4128c47c411876eb800a4e034cdc5222484244bc2e75a732aa5ebe2fe9387940a0789c1cafc5e06f1d5157557cc6ed027615ffa989940d79140c4f24befc58d70170f6560c9bdcb17720495c30e136a8d9ab930475c6a0703c970a78864df28e7dfc9a40e0c53574da196548bd3970e702a788f8e5adb0408f9f5bfc38e5e759a3b5b6de16e8f0f5e2cd4623835a50ce98a3069be2308ae3c29b40d66d70cafee6cbd8cf3d12b17f99ecb4bf46aaf920fd1fd0de02d1f5110bcff29101418249ebe285d7e298376e5d5cbf37e4655bfa083ad96131d033e580358d2acb73ecbc0905b687cab642f6e701f0085448739ad6767346e984e9dfc733bef6f0c24e5b5304e556a82bad8ac8ed5d84ba670d5db87570a3f5e66fd7e451167ddb2824eee7a2c5a7f4e8b1b6b53b76502150af42d675d32081e8679cd60596b1d8abdbe3db9347911/87/1280x720_3738192/index.m3u8
+
+#EXTINF:0,love nature
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/LoveNature/chunks.m3u8?nimblesessionid=597096600
+
+#EXTINF:0,aNIMAL PLANET
+https://regionales.saohgdasregions.fun:9092/MTg3LjE4Ny4yMzAuNDM=/46_.m3u8?token=d1yaYqS5HHg1DI7Taone5A&expires=1783225045
+
+#EXTINF:0,TNT SPORT PREMIUN
+https://deportes.ksdjugfsddeports.com:9092/MTg3LjE4Ny4yMzAuNDM=/35_.m3u8?token=WVtmKdBXImuqza_cn7XMEw&expires=1783214465
+
+#EXTINF:0,TYCSPORT
+https://khala.skylivehd.com/tycsports/tracks-v1a1/mono.m3u8?ip=187.187.230.43&token=7c6f0578ecf214afd6e6088295c9833a0e4c835c-de-1783227139-1783173139
+
+
+#EXTINF:0,DISCOVERI CNANNEL
+https://full-online.xyz/proxy/latam-cv/index.php?url=https%3A%2F%2Fregionales.saohgdasregions.fun%3A9092%2FMTQ3LjkzLjM5LjE1MQ%3D%3D%2F37_101.ts
+
+#EXTINF:0,NATIONAL geo
+
+https://full-online.xyz/proxy/latam-cv/index.php?url=https%3A%2F%2Fregionales.saohgdasregions.fun%3A9092%2FMTQ3LjkzLjM5LjE1MQ%3D%3D%2F47_21.ts
+
+
+
+
+
