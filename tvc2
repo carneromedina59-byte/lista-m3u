@@ -1,0 +1,15 @@
+#EXTM3U
+
+
+#EXTINF:0,
+https://player.castr.com/static/css/embed.min.css
+
+#EXTINF:0,
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/tracks-a1/index.fmp4.m3u8
+
+
+#EXTINF:0,
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/tracks-a1/seg-0-23147.hls.fmp4
+
+
+
