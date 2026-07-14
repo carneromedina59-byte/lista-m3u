@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:0,tv pa
+https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
+
+
+#EXTINF:0,rtv mor
+https://5fe2654d6127d.streamlock.net/rtvmorelos/videortvmorelos/chunklist_w1834827463.m3u8
+
+
+#EXTINF:0,tele yuc
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w279961164.m3u8
+
+
+#EXTINF:0,tv merida
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+
+
+#EXTINF:0,az
+https://vsd115.okcdn.ru/hls/10454955395802.m3u8/sig/RIZtzVpGqdw/expires/1784130140977/srcIp/187.187.231.94/urls/185.226.52.54/clientType/0/srcAg/CHROME/mid/10849691639514/10454955395802_low/index.m3u8
+
+
+#EXTINF:0,ima
+https://www.imagentv.com/sites/all/modules/custom/itv_live_buttons/css/multi-region-styles.css
+
+
+#EXTINF:0,live
+https://us-b4-p-e-ml19.cdn.mdstrm.com/live-stream-gdai/69b0e201a4807b7097316af8/linear/hls/pa/event/Pqw3ERh_TsKTtop8s6dxgg/stream/9553c159-95ee-485b-8ba5-82d4672b6bb0:CBF2/variant/8bf8c7306e496cd1da4c51d80e267cf3/bandwidth/2787400.m3u8?aid=5fea09a071a9945deebf5f7c&dnt=true&access_token=s4oY6GOLB0zy7wgWxPfehqYW24YQuVIdmTlxGBIMjZo2yWP1xMJMjJHzltADqXkm07uB1evRJT4&uid=Sz7F66iMzaOqkdIbHOljBfEfHMW9SlTD&sid=CXTefz3uK3etKOPh4bHbdQc8sz8YrxoK&pid=v51YiyP9WVlN2wz6ky6j81yjP8VfaqWW&ref=envivo.tvazteca.com&ext_pb=0&adInsertionGoogleStreamId=9553c159-95ee-485b-8ba5-82d4672b6bb0%3ACBF2&CMCD=cid%3D%2269b0e201a4807b7097316af8%22%2Cmtp%3D39300%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22v51YiyP9WVlN2wz6ky6j81yjP8VfaqWW%22&es=us-b4-p-e-ml19.cdn.mdstrm.com&ote=1784130775312&ot=lHEiKKPWC0C9UcVdVk_b8g&proto=https&pz=us
+
+
+#EXTINF:0,tv
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-gdai/686c4c6eb03d6c0e7b5e25a0/linear/hls/pa/event/K7sHkDXgSeqzTvDyD_D3XA/stream/1aeb2121-bc14-4156-b11f-579e9fb544b1:CHS/variant/3000fd2d81020653bb809a44c0fa5b57/bandwidth/2041600.m3u8?aid=5fea09a071a9945deebf5f7c&dnt=true&access_token=Vb1qY78pBnmXVkgrlKcf5DlQp0JwgxHr4f4bceyJAeiosKsO0TYvcXL9QM79TooZUXYqtRkj24C&uid=Sz7F66iMzaOqkdIbHOljBfEfHMW9SlTD&sid=CXTefz3uK3etKOPh4bHbdQc8sz8YrxoK&pid=tR1ytw4dK4cC6AhZVbJuFHa6WCuPxFrL&ref=envivo.tvazteca.com&ext_pb=0&adInsertionGoogleStreamId=1aeb2121-bc14-4156-b11f-579e9fb544b1%3ACHS&CMCD=cid%3D%22686c4c6eb03d6c0e7b5e25a0%22%2Cmtp%3D33700%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22tR1ytw4dK4cC6AhZVbJuFHa6WCuPxFrL%22&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1784131007976&ot=ooG6Bemq2v4QiQVmUsX-Pw&proto=https&pz=us
+
+#EXTINF:0,tv1
+
+https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/6719b8b862e13bd63c85325f/linear/hls/pa/event/UE__0dNAQ9C3h1H3tfVPAw/stream/ede79a9f-2e9d-44e0-b59e-686c8f489829:MRN2/variant/3423aa97ca505c7ab6d957d072bcbe9b/bandwidth/1513600.m3u8?aid=5fea09a071a9945deebf5f7c&dnt=true&access_token=2PFWn3rp3GY5ccoWvTv4QusXQ4Lh50hjWczLbRMGFf4WeFb0QJW3KihwDgGNmasr0AtEP78xrwr&uid=Sz7F66iMzaOqkdIbHOljBfEfHMW9SlTD&sid=CXTefz3uK3etKOPh4bHbdQc8sz8YrxoK&pid=0wXUUr9VsZOigS5pKs0roy26pDmgUwuD&ref=envivo.tvazteca.com&ext_pb=0&adInsertionGoogleStreamId=ede79a9f-2e9d-44e0-b59e-686c8f489829%3AMRN2&CMCD=cid%3D%226719b8b862e13bd63c85325f%22%2Cmtp%3D35600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220wXUUr9VsZOigS5pKs0roy26pDmgUwuD%22&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1784131088215&ot=k_nPlD1fvBe9LGA9Rfwmdg&proto=https&pz=us
+
+
+#EXTINF:0,tv2
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/6759e2bae182783ceb3cebff/linear/hls/pa/event/FcMqBphDTs-wK_DCUm104w/stream/dc044094-d26b-4f55-98cc-3688ea551c31:ATL/variant/3c69129415a258a794c5cd8662258be1/bandwidth/1513600.m3u8?aid=5fea09a071a9945deebf5f7c&dnt=true&access_token=sebeCzBqBy7CvTxedU5LXjDYo2LfXc2KmeOn99iVA5lNmOFr0F3AhsExsuPEnkWNKR5WmvjcUe4&uid=Sz7F66iMzaOqkdIbHOljBfEfHMW9SlTD&sid=CXTefz3uK3etKOPh4bHbdQc8sz8YrxoK&pid=MMMlkY6l28XV5o7uB8bAX1Bg50aZMXI8&ref=envivo.tvazteca.com&ext_pb=0&adInsertionGoogleStreamId=dc044094-d26b-4f55-98cc-3688ea551c31%3AATL&CMCD=cid%3D%226759e2bae182783ceb3cebff%22%2Cmtp%3D16200%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22MMMlkY6l28XV5o7uB8bAX1Bg50aZMXI8%22&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1784131129270&ot=vHs7KLvpAMhxSj13Ctyr8g&proto=https&pz=us
+
+
+
+
+
+
+
+
+
