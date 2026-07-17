@@ -1,0 +1,32 @@
+#EXTM3U
+
+
+
+#EXTINF:0,adn40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
+
+#EXTINF:0,adn
+https://aztecalive/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
+
+
+#EXTINF:0,adn
+https://mdstrm.com/live-stream-playlist/i/0kus659k5_1@501884/index_3_av-p.m3u8?sd=10&rebase=on
+
+
+#extinf:0,TRECEVISION YUCATAN http://streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8?
+
+#extinf:0,MEXICO:15TV Sabinas http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+
+#extinf:0,MEXICO:Ocho TV (Guadalajara)  http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+
+#extinf:0,CINE Y SERIES http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#extinf:0,Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
