@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:0,fox cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:0,10 chiapas
+http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8
+
+#EXTINF:0,multi
+http://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
+
+
+#EXTINF:0,TV Mas
+TV Mas,http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
+
+
+#EXTINF:0, ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
+
+
+#EXTINF:0,TV Mas
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?iptvgratis?chile.m3u8
