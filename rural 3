@@ -1,0 +1,23 @@
+#EXTM3U
+
+
+#EXTINF:0,RED ATB
+https://live.eu-north-1b.cf.dmcdn.net/sec2(gA-mk_Wepe0Z0UKhh1Pse54pDx79GupaOFKlxh_6G9u28GGearS2Ph6aB-kkVQW_ce3EwMNe4CpUE1ULxBOShfXwv-MbOtOPjPKMCfHyy40RSY9U0GRi-NSQ1_W10CLH)/dm/3/x84eirw/d/live-720.m3u8
+
+
+#EXTINF:0,44 GUADALAJARA
+https://5fe2654d6127d.streamlock.net/44udg/video44udg/chunklist_w750717620_ao.m3u8?_HLS_skip=YES
+
+#EXTINF:0,44 GUAD
+https://5fe2654d6127d.streamlock.net/44udg/video44udg/media_w750717620_ao_8929_m3u8.cmfa
+
+#EXTINF:0,7 SAN LUIS
+https://mvtvstream.com:444/live/69e10ca18f819/index.m3u8
+
+
+
+#EXTINF:0,canal 14
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
+
+
