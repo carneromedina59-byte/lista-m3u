@@ -1,0 +1,39 @@
+#EXTM3U
+
+
+#EXTINF:0,RED ATB
+https://live.eu-north-1b.cf.dmcdn.net/sec2(gA-mk_Wepe0Z0UKhh1Pse54pDx79GupaOFKlxh_6G9u28GGearS2Ph6aB-kkVQW_ce3EwMNe4CpUE1ULxBOShfXwv-MbOtOPjPKMCfHyy40RSY9U0GRi-NSQ1_W10CLH)/dm/3/x84eirw/d/live-720.m3u8
+
+
+#EXTINF:0,44 GUADALAJARA
+https://5fe2654d6127d.streamlock.net/44udg/video44udg/chunklist_w750717620_ao.m3u8?_HLS_skip=YES
+
+#EXTINF:0,44 GUAD
+https://5fe2654d6127d.streamlock.net/44udg/video44udg/media_w750717620_ao_8929_m3u8.cmfa
+
+#EXTINF:0,7 SAN LUIS
+https://mvtvstream.com:444/live/69e10ca18f819/index.m3u8
+
+#EXTINF:0,NMAS FORO
+https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/02DzjYAJRCeAE9uB8o3ivg/stream/85364a90-7431-487a-ab18-f78eac470c8f:ATL/variant/ea6e216659b50f4032de9a13dc877b7f/bandwidth/14180324.m3u8?hdntl=exp=1784646035~acl=*~id=3d4d2216-e54b-4cbb-8b34-8c598c97f2a0~data=hdntl~hmac=afdd3266022e2761c8c540c6cd668a99e676e342fd49287a43ef81cbcc21dd55&
+
+
+#EXTINF:0,azt 7
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/69b0e201a4807b7097316af8/linear/hls/pa/event/Pqw3ERh_TsKTtop8s6dxgg/stream/5cdd3a08-8254-4455-aa2b-b5880aff4d43:ATL/variant/8bf8c7306e496cd1da4c51d80e267cf3/bandwidth/2787400.m3u8?aid=5fea09a071a9945deebf5f7c&uid=Sz7F66iMzaOqkdIbHOljBfEfHMW9SlTD&sid=FrbwaeJDkckMxW5KYcYP5aLHGfOvuSrp&pid=fIH5vb4YA4XQ1lWygrnVlnTbP9ycyQQv&pid_dvr=9X0GiUcrUVRqClqwO3a9bZOEEXc8aIv7&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=cWHRRZaPAV8Ow66Fc6xmT4WEUUcINjWQisLW5rMSXh6IIJJPjuiF4r9Wl35Dth6RyjjqDT3hLYl&adInsertionGoogleStreamId=5cdd3a08-8254-4455-aa2b-b5880aff4d43%3AATL&CMCD=cid%3D%2269b0e201a4807b7097316af8%22%2Cmtp%3D23900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22fIH5vb4YA4XQ1lWygrnVlnTbP9ycyQQv%22&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1784679171247&ot=qOX0KQNwUgPiiDzTO180DQ&proto=https&pz=us
+
+
+#EXTINF:0,azt 1
+https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-gdai/67da2951a9abb4cba6221759/linear/hls/pa/event/dQQwxiRsQDaWE2z59xVZhw/stream/2f080ceb-d46c-470f-8c7f-5c0b46a3edcf:DLS/variant/fe356b200f51893596ea7f44e514d99e/bandwidth/2822600.m3u8?aid=5fea09a071a9945deebf5f7c&uid=Sz7F66iMzaOqkdIbHOljBfEfHMW9SlTD&sid=FrbwaeJDkckMxW5KYcYP5aLHGfOvuSrp&pid=DGTJIPedZ1hYan5pLlaAMwIjJtX3Og9A&pid_dvr=ZF26giRo1Gmqv96GAM7kH80wc6tFX2ej&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=vyN4RKFh8D1MljCxdpex8qIQeJwEwQnTKtzQpc54Ixjd9fkcsoSpt59fAijt0kkkSJf9KUUag7g&adInsertionGoogleStreamId=2f080ceb-d46c-470f-8c7f-5c0b46a3edcf%3ADLS&CMCD=cid%3D%2267da2951a9abb4cba6221759%22%2Cmtp%3D11400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22DGTJIPedZ1hYan5pLlaAMwIjJtX3Og9A%22%2Csu&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1784678971258&ot=ykyyjj_95s3tN4Xt6SOtrQ&proto=https&pz=us
+
+
+#EXTINF:0,canal 10
+https://s2.canal10mx.com/live/c10.m3u8
+
+#EXTINF:0,canal 14
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
+#EXTINF:0,canalcqcs chetumal
+https://video0.rogohosting.com:19360/4982/4982.m3u8
+
+#EXTINF:0,teleclasica
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8?hls_ctx=4h0ff6d0
