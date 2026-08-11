@@ -1,0 +1,649 @@
+#EXTM3U
+# Lista funcional 27/02/2026 16:18:00 UTC
+
+#EXTINF:-1 tvg-id="Gen Coop Tv" tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/09/cropped-GENT-LOGO-192x192.png" group-title="general",GenTv CH266 
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" group-title="General",Canal 265
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s2.dmcdn.net/u/2fImP1RZzgsKbZI96/240x240" group-title="General",Canal 264
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9nQawoR.png" group-title="General",Canal 263 
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="RT" tvg-logo="https://i.imgur.com/9nQawoR.png" group-title="informativos", RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://i.imgur.com/2fGVVzg.jpeg" group-title="General",CH262
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="CH262" tvg-logo="https://i.imgur.com/2fGVVzg.jpeg" group-title="informativos", A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",Canal 1
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="General",Canal 2
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="General",Canal 3
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal América" tvg-logo="https://i.imgur.com/rfYvcIF.png" group-title="General",CH 4
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="General",Canal 5
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" group-title="General",Canal 6
+https://tv.streaming.com.bo/atvargentina/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="General",Canal 7
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="General",Canal 8
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KdmYVhu.jpeg" group-title="General",Canal 9
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="General",Canal 10
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vBsry35.png" group-title="General",Canal 11
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="General",Canal 12
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="General",Canal 13
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bd2afET.png" group-title="General",Canal 14
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="General",Canal 15
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MsCnwRA.png" group-title="General",Canal 16
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="General",Canal 17
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="General",Canal 18
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="General",Canal 19
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="General",Canal 20
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="General",Canal 21
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="General",Canal 22
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="General",Canal 23
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="General",Canal 24
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xqyibqZ.jpeg" group-title="General",Canal 25
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General",Canal 26
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="General",Canal 27
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="General",Canal 28
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="General",Canal 29
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NcfMC29.png" group-title="General",Canal 30
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="General",Canal 31
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R4wXVxf.png" group-title="General",Canal 32
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="General",Canal 33
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="General",Canal 34
+https://streamconex.com:19360/lacosta/lacosta.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HYuSqJy.png" group-title="General",Canal 35
+https://streamconex.com:19360/puan/puan.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="General",Canal 36
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="General",Canal 37
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IlwSWNQ.png" group-title="General",Canal 38
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="General",Canal 39
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="General",Canal 40
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zGubmgZ.png" group-title="General",Canal 41
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="General",Canal 42
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png" group-title="General",Canal 43
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="General",Canal 44
+http://201.230.121.186:8000/play/a0fb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/148RMHm.png" group-title="General",Canal 45
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/148RMHm.png" group-title="Deportes",FIFA +
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="General",Canal 46
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="General",Canal 47
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="General",Canal 48
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Infantiles",CH 48
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="General",Canal 49
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="General",Canal 50
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="General",Canal 51
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="General",Canal 52
+https://panel.host-live.com:19360/8250/8250.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="General",Canal 53
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u1dnEVv.png" group-title="General",Canal 54
+https://panel.host-live.com:19360/20004/20004.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" group-title="General",Canal 55
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6f8EYC2.jpeg" group-title="General",Canal 56
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pXS38zo.png" group-title="General",Canal 57
+https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9KCdTX.png" group-title="General",Canal 58
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png" group-title="General",Canal 59
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HXBLozl.png" group-title="General",Canal 60
+https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVi0ICm.png" group-title="General",Canal 61
+https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NNyDWsz/download-8.png" group-title="General",Canal 62
+http://204.199.3.2/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="General",Canal 63
+https://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="General",Canal 64
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="General",Canal 65
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jars0mP.png" group-title="General",Canal 66
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M0fMypR.png" group-title="General",Canal 67
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="General",Canal 68
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8Nftz9C.png" group-title="General",Canal 69
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8Nftz9C.png" group-title="Deportes",TyC Sports
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="General",Canal 70
+https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="General",Canal 71
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvomix.com/Logos/Urbanmix.png" group-title="General",Canal 72
+https://cloud.tvomix.com/URBANMIX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TLaausJ.png" group-title="General",Canal 73
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LxB7ZIu.png" group-title="General",Canal 74
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8?ads.vf=-ZtA7vYT8Ri
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Canal 75
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cine y Series",CH 75
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Canal 76
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantiles",CH 76
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Canal 77
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Canal 78
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="LA 1 HD, Canal 266" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="Generalistas", LA 1
+https://live.tvup.edge2befaster.io/la1-neutral/la1-neutral.mpd
+#EXTINF:-1 tvg-id="LA 2, Canal 267" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" group-title="Generalistas", LA 2
+https://live.tvup.edge2befaster.io/la2/la2.mpd
+#EXTINF:-1 tvg-id="Antena 3 HD, Canal 268" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/A3" group-title="Generalistas", Antena 3
+https://live.tvup.edge2befaster.io/antena3hd/antena3hd.mpd
+#EXTINF:-1 tvg-id="Cuatro HD, Canal 269" tvg-logo="https://album.mediaset.es/cimg/2023/0403/08/epgchannel-cuatro-logo-d9a49ad.png" group-title="Generalistas", Cuatro
+https://live.tvup.edge2befaster.io/cuatro/cuatro.mpd
+#EXTINF:-1 tvg-id="Telecinco HD, Canal 270" tvg-logo="https://album.mediaset.es/cimg/2024/09/02/500x500-telecinco_da39.png" group-title="Generalistas", Telecinco
+https://live.tvup.edge2befaster.io/telecincohd/telecincohd.mpd
+#EXTINF:-1 tvg-id="La Sexta HD, Canal 271" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SEXTA" group-title="Generalistas", La Sexta
+https://live.tvup.edge2befaster.io/lasexta/lasexta.mpd
+#EXTINF:-1 tvg-id="24 Horas, Canal 272" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/24H" group-title="Informativos", 24 Horas
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="TV3 Catalunya, Canal 273" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TV3CAT" group-title="Generalistas", TV3
+https://live.tvup.edge2befaster.io/tv3hd/tv3hd.mpd
+#EXTINF:-1 tvg-id="3CatInfo, Canal 274" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/3_24" group-title="Informativos", 3CatInfo
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="Esport3 Catalunya, Canal 275" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ESP3" group-title="Generalistas", Esport 3
+https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="El 33 Catalunya, Canal 276" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CAN33" group-title="Generalistas", El 33
+https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="Bon Dia TV, Canal 277" tvg-logo="https://streaming.alwaysdata.net/img/bondia.png" group-title="Generalistas", Bon Dia TV
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="Betevé, Canal 278" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEO/canal/BTV" group-title="Generalistas", Betevé
+https://live.tvup.edge2befaster.io/beteve6/beteve6.mpd
+#EXTINF:-1 tvg-id="TeleMadrid, Canal 279" tvg-logo="https://streaming.alwaysdata.net/img/telemadrid.png" group-title="Generalistas", TeleMadrid
+https://live.tvup.edge2befaster.io/telemadrid6/telemadrid6.mpd
+#EXTINF:-1 tvg-id="La Otra, Canal 280" tvg-logo="https://streaming.alwaysdata.net/img/laotra.png" group-title="Generalistas", LaOtra
+https://live.tvup.edge2befaster.io/laotra/laotra.mpd
+#EXTINF:-1 tvg-id="Canal Sur HD, Canal 281" tvg-logo="https://streaming.alwaysdata.net/img/canalsur1.png" group-title="Generalistas", Canal Sur
+https://live.tvup.edge2befaster.io/canalsur/canalsur.mpd
+#EXTINF:-1 tvg-id="Andalucía TV, Canal 282" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ANDATV" group-title="Generalistas", Andalucía TV
+https://live.tvup.edge2befaster.io/andaluciatv/andaluciatv.mpd
+#EXTINF:-1 tvg-id="TVG, Canal 283" tvg-logo="https://streaming.alwaysdata.net/img/tvg.png" group-title="Generalistas", TVG - TV Galicia
+https://live.tvup.edge2befaster.io/tvghd/tvghd.mpd
+#EXTINF:-1 tvg-id="TVG2, Canal 284" tvg-logo="https://streaming.alwaysdata.net/img/tvg.png" group-title="Generalistas", TVG2
+https://crtvg-tvg2.flumotion.cloud/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Aragón TV, Canal 285" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARAGTV" group-title="Generalistas", Aragon TV
+https://live.tvup.edge2befaster.io/aragontvsd/aragontvsd.mpd
+#EXTINF:-1 tvg-id="À Punt, Canal 286" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEO/canal/APUNT" group-title="Generalistas", À Punt
+https://live.tvup.edge2befaster.io/apunt6/apunt6.mpd
+#EXTINF:-1 tvg-id="7teleValencia, Canal 287" tvg-logo="https://streaming.alwaysdata.net/img/7televalencia.png" group-title="Generalistas" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP142/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", 7TeleValencia
+https://vfpc.gb.vodafone.es/sdash/LIVE$CUP142/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 tvg-id="TPA7 Asturias, Canal 288" tvg-logo="https://streaming.alwaysdata.net/img/tpa7.png" group-title="Generalistas", TPA 7
+https://live.tvup.edge2befaster.io/tpa7/tpa7.mpd
+#EXTINF:-1 tvg-id="TPA8 Asturias, Canal 289" tvg-logo="https://streaming.alwaysdata.net/img/tpa8.png" group-title="Generalistas", TPA 8
+https://live.tvup.edge2befaster.io/tpa8/tpa8.mpd
+#EXTINF:-1 tvg-id="Navarra TV, Canal 290" tvg-logo="https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png" group-title="Generalistas", Navarra TV
+https://clm.ahimas.openstream.es/LB-Opensport/smil:64_premium.smil/manifest.mpd?LIVE&type=1&operator=anexiona
+#EXTINF:-1 tvg-id="Navarra TV 2, Canal 291" tvg-logo="https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png" group-title="Generalistas", Navarra TV 2
+https://clm.ahimas.openstream.es/LB-Opensport/smil:130_premium.smil/manifest.mpd?LIVE&type=1&operator=anexiona
+#EXTINF:-1 tvg-id="La 7 Murcia, Canal 292" tvg-logo="https://streaming.alwaysdata.net/img/la7.png" group-title="Generalistas", La 7 Murcia
+https://live.tvup.edge2befaster.io/7rmhd/7rmhd.mpd
+#EXTINF:-1 tvg-id="IB3 TV Illes Balears, Canal 293" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEO/canal/IB3" group-title="Generalistas", IB3
+https://live.tvup.edge2befaster.io/ib3hd/ib3hd.mpd
+#EXTINF:-1 tvg-id="Canal Extremadura, Canal 294" tvg-logo="https://streaming.alwaysdata.net/img/extremadura.png" group-title="Generalistas", Canal Extremadura
+https://live.tvup.edge2befaster.io/canalextremadura/canalextremadura.mpd
+#EXTINF:-1 tvg-id="La 7 CyL, Canal 295" tvg-logo="https://streaming.alwaysdata.net/img/cyltv_la7.png" group-title="Generalistas", La 7
+https://live.tvup.edge2befaster.io/7cyltv/7cyltv.mpd
+#EXTINF:-1 tvg-id="La 8 Valladolid, Canal 296" tvg-logo="https://streaming.alwaysdata.net/img/cyltv_la8.png" group-title="Generalistas", La 8
+https://live.tvup.edge2befaster.io/8cyltv/8cyltv.mpd
+#EXTINF:-1 tvg-id="ETB1, Canal 297" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ETB1" group-title="Generalistas", ETB 1
+https://live.tvup.edge2befaster.io/etb1/etb1.mpd
+#EXTINF:-1 tvg-id="ETB2, Canal 298" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ETB2" group-title="Generalistas", ETB 2
+https://live.tvup.edge2befaster.io/etb2/etb2.mpd
+#EXTINF:-1 tvg-id="CMM TV, Canal 301" tvg-logo="https://cmmedia.es/images/footer/cmmplay-footer.png" group-title="Generalistas", Castilla la Mancha TV
+https://live.tvup.edge2befaster.io/castillalamancha/castillalamancha.mpd
+#EXTINF:-1 tvg-id="TV Canaria, Canal 302" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CANAR" group-title="Generalistas", TV Canaria
+https://live.tvup.edge2befaster.io/tvcanaria/tvcanaria.mpd
+#EXTINF:-1 tvg-id="TCM HD, Canal 304" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TCM" group-title="Cine y Series", TCM
+https://live.tvup.edge2befaster.io/tcm6/tcm6.mpd
+#EXTINF:-1 tvg-id="AXN Movies HD, Canal 305" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SET" group-title="Cine y Series", AXN Movies
+https://live.tvup.edge2befaster.io/axnwhite6/axnwhite6.mpd
+#EXTINF:-1 tvg-id="Canal Hollywood HD, Canal 306" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HOLLYW" group-title="Cine y Series" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP006/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Canal Hollywood
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/evsbxt0hu3/out/v1/28e66eb2f7784804bd9859cc4d33cc0b/cenc.mpd
+#EXTINF:-1 tvg-id="XTRM, Canal 307" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/XTRM" group-title="Cine y Series" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP005/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", XTRM
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/rvscucfhgr/out/v1/b48bfe5dfb354fc3bd79ee43241bcd8d/cenc.mpd
+#EXTINF:-1 tvg-id="Sundance TV, Canal 308" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SUNDAN" group-title="Cine y Series" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP009/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Sundance TV
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/b35ev6wnfl/out/v1/e861d4f14a7440ceb41596545eb643ee/cenc.mpd
+#EXTINF:-1 tvg-id="DARK, Canal 309" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DARK" group-title="Cine y Series" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP193/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Dark
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/5wyofdw0xz/out/v1/ef545f1fe6f5491da9a62eb36e5d0b07/cenc.mpd
+#EXTINF:-1 tvg-id="Somos, Canal 310" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SOMOS" group-title="Cine y Series" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP053/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Somos
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oz5lkbn1fe/out/v1/449a260bf14c4f778f9c3fd9be7ef6d4/cenc.mpd
+#EXTINF:-1 tvg-id="BBC Series, Canal 311" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BBDRA" group-title="Cine y Series", BBC Series
+https://amg00793-amg00793c30-samsung-es-4959.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaspainsamsunges-samsunges/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Top Gear, Canal 312" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BBGEA" group-title="Entretenimiento", BBC Top Gear
+https://amg00793-amg00793c50-samsung-es-6971.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearspain-samsunges/playlist.m3u8
+#EXTINF:-1 tvg-id="BE MAD, Canal 313" tvg-logo="https://album.mediaset.es/cimg/2023/0403/08/epgchannel-be-mad-logo-e92b270.png" group-title="Cine y Series", Be Mad
+https://live.tvup.edge2befaster.io/bemad/bemad.mpd
+#EXTINF:-1 tvg-id="STAR Channel HD, Canal 314" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/FOXGE" group-title="Cine y Series", STAR Channel
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-p1/__c/FOX_HD/__op/dash-wv/__f/manifest.mpd
+#EXTINF:-1 tvg-id="AXN HD, Canal 315" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/AXN" group-title="Cine y Series", AXN
+https://live.tvup.edge2befaster.io/axn-hd/axn-hd.mpd
+#EXTINF:-1 tvg-id="Warner TV HD, Canal 316" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TNT" group-title="Cine y Series", Warner TV
+https://live.tvup.edge2befaster.io/tnt6/tnt6.mpd
+#EXTINF:-1 tvg-id="Calle 13 HD, Canal 318" tvg-logo="https://calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.png" group-title="Cine y Series", Calle 13
+https://live.tvup.edge2befaster.io/calle13-6/calle13-6.mpd
+#EXTINF:-1 tvg-id="COSMO HD, Canal 319" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/canal/COSMO" group-title="Cine y Series", COSMO
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-p1/__c/Cosmopolitan_HD/__op/dash-wv/__f/manifest.mpd
+#EXTINF:-1 tvg-id="SYFY HD, Canal 320" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SCI-FI" group-title="Cine y Series", SYFY
+https://live.tvup.edge2befaster.io/syfy6/syfy6.mpd
+#EXTINF:-1 tvg-id="AMC HD, Canal 321" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEO/canal/AMC" group-title="Cine y Series" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP007/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", AMC
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ghmzwmcfv3/out/v1/b3d2caad696b4000896288df4ee18e04/cenc.mpd
+#EXTINF:-1 tvg-id="Veo7, Canal 322" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/VEO7" group-title="Cine y Series", Veo7
+https://cache07.zapitv.com/live/eds_c2/veo_7/dash_live_ez/veo_7.mpd
+#EXTINF:-1 tvg-id="TRECE, Canal 323" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/13TV" group-title="Generalistas", TRECE
+https://live.tvup.edge2befaster.io/trece6/trece6.mpd
+#EXTINF:-1 tvg-id="Squirrel TV, Canal 324" tvg-logo="https://streaming.alwaysdata.net/img/squirrel.png" group-title="Cine y Series" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP026/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Squirrel
+https://vfpc.gb.vodafone.es/sdash/LIVE$CUP026/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 tvg-id="Squirrel 2, Canal 325" tvg-logo="https://streaming.alwaysdata.net/img/squirreldos.png" group-title="Cine y Series" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP039/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Squirrel Dos
+https://vfpc.gb.vodafone.es/sdash/LIVE$CUP039/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 tvg-id="BOM cine, Canal 326" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BOMCIN" group-title="Cine y Series" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP240/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", BOM cine
+https://vfpc.gb.vodafone.es/sdash/LIVE$CUP240/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 tvg-id="8madrid TV, Canal 327" tvg-logo="https://streaming.alwaysdata.net/img/8madrid.png" group-title="Cine y Series", 8madrid TV
+https://clm.ahimas.openstream.es/LB-Opensport/smil:234_premium.smil/manifest.mpd?LIVE&type=1&operator=anexiona
+#EXTINF:-1 tvg-id="acontra+, Canal 328" tvg-logo="https://album.mediaset.es/cimg/2022/03/14/logo-acontra-ok-grande_3664.png" group-title="Cine y Series", acontra+
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/enyah1390w/out/v1/e7eb52993e674cac9f63faababf3df22/cenc.mpd
+#EXTINF:-1 tvg-id="Cines Verdi TV, Canal 329" tvg-logo="https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png" group-title="Cine y Series", Cines Verdi TV
+https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8
+#EXTINF:-1 tvg-id="Cine Feel Good, Canal 330" tvg-logo="https://media.tvup.cloud/canales/color_lg_65b0fa5ea9d9e0e7df13780e.png" group-title="Cine y Series", Cine Feel Good
+https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8
+#EXTINF:-1 tvg-id="Energy, Canal 331" tvg-logo="https://album.mediaset.es/cimg/2023/0403/08/epgchannel-energy-logo-b1831fe.png" group-title="Cine y Series", Energy
+https://live.tvup.edge2befaster.io/energy6/energy6.mpd
+#EXTINF:-1 tvg-id="Factoría de Ficción, Canal 332" tvg-logo="https://album.mediaset.es/cimg/2023/0403/08/epgchannel-fdf-logo-081e717.png" group-title="Cine y Series", Factoría de Ficción
+https://live.tvup.edge2befaster.io/fdf6/fdf6.mpd
+#EXTINF:-1 tvg-id="Neox, Canal 333" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NEOX" group-title="Cine y Series", Neox
+https://live.tvup.edge2befaster.io/neox6/neox6.mpd
+#EXTINF:-1 tvg-id="Atreseries, Canal 334" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/ATRESS" group-title="Cine y Series", Atreseries
+https://live.tvup.edge2befaster.io/atresseries/atresseries.mpd
+#EXTINF:-1 tvg-id="TUDN (Estados Unidos), Canal 335" tvg-logo="https://www.copaangelina.com/tudn-logo.f5be7aa5.png" group-title="Deportes", TUDN (Champions)
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 tvg-id="SKYsports1.mx, Canal 336" tvg-logo="https://streaming.alwaysdata.net/img/skysports.png" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/SKYSPORTSHD/default.mpd?start={utc}&end={utcend}", 🇲🇽 Sky Sports
+https://retrogrid.izzigo.tv/out/u/startover/dash/SKYSPORTSHD/default.mpd
+#EXTINF:-1 tvg-id="SKYsports16.mx, Canal 337" tvg-logo="https://streaming.alwaysdata.net/img/skysportslaliga.png" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/SKYSPORTS16HD/default.mpd?start={utc}&end={utcend}", 🇲🇽 Sky Sports LaLiga
+https://retrogrid.izzigo.tv/out/u/startover/dash/SKYSPORTS16HD/default.mpd
+#EXTINF:-1 tvg-id="SkySports24.mx, Canal 338" tvg-logo="https://streaming.alwaysdata.net/img/skysportsbundesliga.png" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/SKYSPORTS24HD/default.mpd?start={utc}&end={utcend}", 🇲🇽 Sky Sports Bundesliga
+https://retrogrid.izzigo.tv/out/u/startover/dash/SKYSPORTS24HD/default.mpd
+#EXTINF:-1 tvg-id="SkySports21.mx, Canal 339" tvg-logo="https://streaming.alwaysdata.net/img/skysportsbundesliga.png" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/SKYSPORTS21HD/default.mpd?start={utc}&end={utcend}", 🇲🇽 Sky Sports Bundesliga Women
+https://retrogrid.izzigo.tv/out/u/startover/dash/SKYSPORTS21HD/default.mpd
+#EXTINF:-1 tvg-id="LaLiga, Canal 340" tvg-logo="https://streaming.alwaysdata.net/img/laliga.png" group-title="Deportes", 🇬🇧 LaLiga
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD, Canal 341" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS" group-title="Deportes", LaLiga TV Hypermotion 
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2, Canal 342" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS2" group-title="Deportes", LaLiga TV Hypermotion 2
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tdk3bssrpb/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3, Canal 343" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS3" group-title="Deportes", LaLiga TV Hypermotion 3
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+#EXTINF:-1 tvg-id="GOL, Canal 344" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOL" group-title="Deportes", Gol
+https://live.tvup.edge2befaster.io/goltv/goltv.mpd
+#EXTINF:-1 tvg-id="Teledeporte, Canal 345" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TDEP" group-title="Deportes", Teledeporte
+https://live.tvup.edge2befaster.io/teledeporte/teledeporte.mpd
+#EXTINF:-1 tvg-id="Real Madrid TV, Canal 346" tvg-logo="https://streaming.alwaysdata.net/img/realmadrid.png" group-title="Deportes", Real Madrid TV
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r3/__c/RealmadridTV_HD_B/__op/dash-wv/__f/manifest.mpd
+#EXTINF:-1 tvg-id="Top Barça, Canal 347" tvg-logo="https://streaming.alwaysdata.net/img/fcb.png" group-title="Deportes", Top Barça
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-id="FR | L`ÉQUIPE, Canal 348" tvg-logo="https://streaming.alwaysdata.net/img/lequipe.png" group-title="Deportes", La chaîne L'Équipe
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1 tvg-id="Red Bull TV, Canal 349" tvg-logo="https://streaming.alwaysdata.net/img/redbull.png" group-title="Deportes", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="Rally.TV, Canal 350" tvg-logo="https://streaming.alwaysdata.net/img/rallytv.png" group-title="Deportes", Rally TV
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+#EXTINF:-1 tvg-id="Onetoro, Canal 352" tvg-logo="https://streaming.alwaysdata.net/img/onetoro.png" group-title="Toros y Caza", OneToro
+https://live.onetoro.transparentedge.io/onetoro/index.mpd
+#EXTINF:-1 tvg-id="Torolé TV, Canal 353" tvg-logo="https://toroletv.com/wp-content/uploads/2025/03/torole_logotipo_blanco.png" group-title="Toros y Caza", Torolé TV
+https://clm.ahimas.openstream.es/LB-Opensport/smil:49_premium.smil/manifest.mpd?LIVE&type=1&operator=anexiona
+#EXTINF:-1 tvg-id="Cazavisión, Canal 354" tvg-logo="https://cazavision.com/wp-content/uploads/2021/02/cazavision-menu-logo.png" group-title="Toros y Caza" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP069/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Cazavisión
+https://vfpc.gb.vodafone.es/sdash/LIVE$CUP069/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_UHD
+#EXTINF:-1 tvg-id="El Garage TV, Canal 358" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GARAGE" group-title="Documentales", El Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="National Geographic HD, Canal 360" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGEO" group-title="Documentales", National Geographic
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/NGEO_HD/__op/dash-wv/__f/manifest.mpd
+#EXTINF:-1 tvg-id="Nat Geo Wild HD, Canal 361" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NATGW" group-title="Documentales", Nat Geo Wild
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/NGEO_WILD_HD/__op/dash-wv/__f/manifest.mpd
+#EXTINF:-1 tvg-id="BBC Earth, Canal 362" tvg-logo="https://streaming.alwaysdata.net/img/bbcearth.png" group-title="Documentales", BBC Earth
+https://amg00793-amg00793c24-samsung-es-4784.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Historia, Canal 363" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" group-title="Documentales" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP029/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Historia
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/5mrflqzpbx/out/v1/a75ce599b2484e608d590c60e51d5f23/cenc.mpd
+#EXTINF:-1 tvg-id="Historia y Vida, Canal 364" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/HISTORIA_Y_VIDA_176x122.png" group-title="Documentales", Historia y Vida
+https://amg01821-amg01821c22-orangees-emea-3529.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Odisea, Canal 366" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ODISEA" group-title="Documentales" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP031/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Odisea
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ztloctzksa/out/v1/3d23cae1f2b44d37af5a793c225bee90/cenc.mpd
+#EXTINF:-1 tvg-id="AMC Break, Canal 367" tvg-logo="https://amcnetworks.pt/wp-content/uploads/2024/01/AMCBREAK_COLOR_NUEVO.png" group-title="Cine y Series" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP071/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", AMC Break
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/uwptzn5c55/out/v1/b92d4e70d2034cae86b5713123988f9f/cenc.mpd
+#EXTINF:-1 tvg-id="DMAX, Canal 368" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEO/canal/DCRMAX" group-title="Documentales", DMAX
+https://live.tvup.edge2befaster.io/dmax6/dmax6.mpd
+#EXTINF:-1 tvg-id="AMC Crime, Canal 369" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CYM" group-title="Cine y Series" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP030/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", AMC Crime
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oqe01ck3zf/out/v1/6a4fb21157114a1ca4656ce3e8a6f89d/cenc.mpd
+#EXTINF:-1 tvg-id="BuenViaje, Canal 371" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BUENV" group-title="Entretenimiento" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP078/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", BuenViaje
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/0upibrapoh/out/v1/c0762e8d17e04672afede5eb374c91ed/cenc.mpd
+#EXTINF:-1 tvg-id="Escapa TV, Canal 372" tvg-logo="https://static.wixstatic.com/media/876419_9853706ec3bc4f8ca6f87530a8acbb59~mv2.png" group-title="Entretenimiento" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP233/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Escapa TV
+https://vfpc.gb.vodafone.es/sdash/LIVE$CUP233/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 tvg-id="Canal Cocina, Canal 373" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CACOC" group-title="Entretenimiento" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP035/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Canal Cocina
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fx6zubsovz/out/v1/eabbafa4b209459da45bdde8298676e6/cenc.mpd
+#EXTINF:-1 tvg-id="Decasa, Canal 374" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DECASA" group-title="Entretenimiento" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP036/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Canal Decasa
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/hjjv4ym9bq/out/v1/40b8f911bbd2435d96af41ca8689c25a/cenc.mpd
+#EXTINF:-1 tvg-id="DKISS, Canal 375" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DKISS" group-title="Entretenimiento", DKISS
+https://live.tvup.edge2befaster.io/dkissl/dkissl.mpd
+#EXTINF:-1 tvg-id="Divinity, Canal 376" tvg-logo="https://album.mediaset.es/cimg/2023/0403/08/epgchannel-divinity-logo-e210f94.png" group-title="Cine y Series", Divinity
+https://live.tvup.edge2befaster.io/divinity6/divinity6.mpd
+#EXTINF:-1 tvg-id="Nova, Canal 377" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NOVA" group-title="Entretenimiento", Nova
+https://live.tvup.edge2befaster.io/nova6/nova6.mpd
+#EXTINF:-1 tvg-id="Mega, Canal 378" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEGA" group-title="Entretenimiento", Mega
+https://live.tvup.edge2befaster.io/mega6/mega6.mpd
+#EXTINF:-1 tvg-id="Ten, Canal 379" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TEN" group-title="Cine y Series", Ten
+https://live.tvup.edge2befaster.io/ten6/ten6.mpd
+#EXTINF:-1 tvg-id="VinTV, Canal 380" tvg-logo="https://streaming.alwaysdata.net/img/vintv.png" group-title="Cine y Series" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP059/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", VinTV
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zugbamzz65/out/v1/cae5d5b5cf224848853708db6beafac2/cenc.mpd
+#EXTINF:-1 tvg-id="Disney Junior, Canal 382" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/PLAYDC" group-title="Infantiles", Disney Junior
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/Disney_Junior_HD/__op/dash-wv/__f/manifest.mpd
+#EXTINF:-1 tvg-id="Dreamworks HD, Canal 385" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DWSP" group-title="Infantiles", Dreamworks
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DREAMWORKS)/index.m3u8
+#EXTINF:-1 tvg-id="Boing, Canal 386" tvg-logo="https://album.mediaset.es/cimg/2023/0403/08/epgchannel-boing-logo-e5d4cc3.png" group-title="Infantiles", Boing
+https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r3/__c/Boing_HD_B/__op/dash-wv/__f/manifest.mpd
+#EXTINF:-1 tvg-id="Clan, Canal 387" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLANTV" group-title="Infantiles", Clan TVE
+https://live.tvup.edge2befaster.io/clan/clan.mpd
+#EXTINF:-1 tvg-id="SX3 Catalunya, Canal 388" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C33" group-title="Infantiles", SX3
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="AMC Anime, Canal 389" tvg-logo="https://amcnetworks.es/wp-content/uploads/2025/11/AMCANIME_BLANCO-1.png" group-title="Infantiles" catchup-type="default" catchup-days="30" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP032/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", AMC Anime
+https://vfpc.gb.vodafone.es/sdash/LIVE$CUP032/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 tvg-id="Anime Visión, Canal 390" tvg-logo="https://media.tvup.cloud/canales/color_lg_6788eca1eb47e03b4d571b46_1742820319584.png" group-title="Infantiles", Anime Visión
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:-1 tvg-id="Anime Visión Classics, Canal 391" tvg-logo="https://media.tvup.cloud/canales/color_lg_6788ed16eb47e03b4d571b79_1742820515097.png" group-title="Infantiles", Anime Visión Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1 tvg-id="Mezzo, Canal 393" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEZZO" group-title="Entretenimiento", Mezzo
+https://live.tvup.edge2befaster.io/mezzo6/mezzo6.mpd
+#EXTINF:-1 tvg-id="Mezzo Live HD, Canal 394" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MEZZLI" group-title="Entretenimiento", Mezzo Live
+https://live.tvup.edge2befaster.io/mezzolivehd6/mezzolivehd6.mpd
+#EXTINF:-1 tvg-id="Classica HD, Canal 395" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CLASSD" group-title="Entretenimiento", Classica
+https://lotus.stingray.com/manifest/classica-cla001-london/webapp/master.m3u8
+#EXTINF:-1 tvg-id="Now 70s, Canal 396" tvg-logo="https://streaming.alwaysdata.net/img/now70s.png" group-title="Entretenimiento", Now 70s
+https://now70s-tivify.fastlive.tcscdn.net/now70s-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Now 80s, Canal 397" tvg-logo="https://streaming.alwaysdata.net/img/now80s.png" group-title="Entretenimiento", Now 80s
+https://now80s-tivify.fastlive.tcscdn.net/now80s-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Now 90s 00s, Canal 398" tvg-logo="https://streaming.alwaysdata.net/img/now90s00s.png" group-title="Entretenimiento", Now 90s 00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Now Rock, Canal 399" tvg-logo="https://streaming.alwaysdata.net/img/nowrock.png" group-title="Entretenimiento", Now Rock
+https://now90s-tivify.fastlive.tcscdn.net/now90s-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC World News Europe HD, Canal 400" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BBC" group-title="Informativos", BBC World News Europe
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN International Europe, Canal 401" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CNN" group-title="Informativos", CNN Int
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
+#EXTINF:-1 tvg-id="CNN en Español, Canal 402" tvg-logo="https://streaming.alwaysdata.net/img/cnne.png" group-title="Informativos", CNN en Español
+https://amg00803-amg00803c3-samsung-es-4975.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-samsunges/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews, Canal 403" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ENW" group-title="Informativos", Euronews
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiYTc1M2NiNTQtZDAwOS00MTYyLWEwOTMtYTFlM2ZhMWJjYjU2IiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English HD, Canal 404" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ALJAZE" group-title="Informativos", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="FR | FRANCE 24, Canal 405" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/FRANCE" group-title="Informativos", FRANCE24 (FR)
+https://amg00106-france24-france24-samsungspain-n4tez.amagi.tv/playlist/amg00106-france24-france24-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC Europe HD, Canal 406" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NBC" group-title="Informativos", CNBC Europe
+https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5 Monde Europe HD, Canal 407" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TV5" group-title="Informativos", TV5 Monde Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV Europe, Canal 408" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BL" group-title="Informativos", Bloomberg
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="El Toro TV, Canal 409" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/INTECO" group-title="Generalistas", El Toro TV
+https://live.tvup.edge2befaster.io/eltorotv/eltorotv.mpd
+#EXTINF:-1 tvg-id="Sky News International, Canal 410" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/SKYNW" group-title="Informativos", Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 tvg-id="Negocios TV, Canal 411" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/NEGOTV" group-title="Informativos", Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="CGTN Español, Canal 412" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CCTV-E" group-title="Informativos", CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN Documentary, Canal 413" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CGTNDO" group-title="Documentales", CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 tvg-id="Canal de las Estrellas, Canal 414" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GALAV" group-title="Informativos", Canal de las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="Arirang TV HD, Canal 415" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARIRHD" group-title="Informativos", Arirang TV
+https://amdlive-ch0
+#EXTINF:-1 tvg-id="Arirang TV HD, Canal 415" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARIRHD" group-title="Informativos", Arirang TV
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Cubavisión Internacional HD, Canal 416" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CUBAV" group-title="Informativos" catchup-type="default" catchup-days="2" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP121/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", Cubavisión Internacional
+https://vfpc.gb.vodafone.es/sdash/LIVE$CUP121/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD
+#EXTINF:-1 tvg-id="Telesur HD, Canal 417" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TLESUR" group-title="Informativos", Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/.m3u8
+#EXTINF:-1 tvg-id="EWTN, Canal 418" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/EWTN" group-title="Informativos" catchup-type="default" catchup-days="2" catchup-source="https://vfpc.gb.vodafone.es/sdash/LIVE$CUP094/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE", EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal Sur Andalucía, Canal 419" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ANTV" group-title="Generalistas", Canal Sur Andalucía
+https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
+#EXTINF:-1 tvg-id="TVG Europa HD, Canal 420" tvg-logo="https://streaming.alwaysdata.net/img/tvg.png" group-title="Generalistas", TVG Europa
+https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Canal Extremadura Sat, Canal 421" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/EXTREM" group-title="Generalistas", Canal Extremadura Sat
+https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/.m3u8
+#EXTINF:-1 tvg-id="TV3CAT Catalunya, Canal 422" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVC" group-title="Generalistas", TV3cat
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="EITB Basque, Canal 423" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ETB" group-title="Generalistas", EITB Basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1 tvg-id="Aragón TV Internacional, Canal 424" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARAGON" group-title="Generalistas", Aragon TV Internacional
+https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="Telemadrid Internacional, Canal 425" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TELMIN" group-title="Generalistas", Telemadrid Int.
+https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:-1 tvg-id="gh24h1, Canal 426" tvg-logo="https://streaming.alwaysdata.net/img/ghduo1.png" group-title="Entretenimiento", Gran Hermano Dúo 1 
+https://directos.mediasetinfinity.es/oripremium05/live/premium05/mpd-cenc/mpd-cenc.isml/.mpd?t=1
+#EXTINF:-1 tvg-id="gh24h2, Canal 427" tvg-logo="https://streaming.alwaysdata.net/img/ghduo2.png" group-title="Entretenimiento", Gran Hermano Dúo 2
+https://directos.mediasetinfinity.es/oripremium06/live/premium06/mpd-cenc/mpd-cenc.isml/.mpd?t=1
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD, Canal 428" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS" group-title="Deportes", LaLiga TV Hypermotion (Amazon)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2, Canal 429" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS2" group-title="Deportes", LaLiga TV Hypermotion 2 (Amazon)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tdk3bssrpb/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3, Canal 430" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGS3" group-title="Deportes", LaLiga TV Hypermotion 3 (Amazon)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+#EXTINF:-1 tvg-id="Eurosport 1 HD, Canal 431" tvg-logo="https://eu1-prod-images.disco-api.com/2022/01/28/68dc1a75-646d-45fb-8edc-e17bb8b2ce6c.png" group-title="Deportes", Eurosport 1 (Amazon)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zitbm32cd4/out/v1/de17cb98c1cb42b5978948f04fe4b4c0/cenc.mpd
+#EXTINF:-1 tvg-id="Eurosport 2, Canal 432" tvg-logo="https://eu1-prod-images.disco-api.com/2021/09/30/fa1e397e-9a45-408e-b001-f8013f0ef433.png" group-title="Deportes", Eurosport 2 (Amazon)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/to7i2ywspg/out/v1/2b9c64c6360947deaa5c824ebbd9aa83/cenc.mpd
+#EXTINF:-1 tvg-id="PT | Eurosport 2 HD, Canal 433" tvg-logo="https://eu1-prod-images.disco-api.com/2022/01/28/68dc1a75-646d-45fb-8edc-e17bb8b2ce6c.png" group-title="Deportes", 🇬🇧 Eurosport 1
+https://tr.live.cdn.cgates.lt/live/dash/561802/index.mpd
+#EXTINF:-1 tvg-id="PT | Eurosport 1 HD, Canal 434" tvg-logo="https://eu1-prod-images.disco-api.com/2021/09/30/fa1e397e-9a45-408e-b001-f8013f0ef433.png" group-title="Deportes", 🇬🇧 Eurosport 2
+https://tr.live.cdn.cgates.lt/live/dash/561705/index.mpd
+#EXTINF:-1 tvg-id="TUDN (Estados Unidos), Canal 435" tvg-logo="https://www.copaangelina.com/tudn-logo.f5be7aa5.png" group-title="Deportes", 🇺🇸 TUDN
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 tvg-id="ESPN, Canal 437" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd?start={utc}&end={utcend}", 🇲🇽 ESPN
+https://retrogrid.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd
+#EXTINF:-1 tvg-id="ESPN 2, Canal 438" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd?start={utc}&end={utcend}", 🇲🇽 ESPN 2
+https://retrogrid.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd
+#EXTINF:-1 tvg-id="ESPN 3, Canal 439" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd?start={utc}&end={utcend}", 🇲🇽 ESPN 3
+https://retrogrid.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd
+#EXTINF:-1 tvg-id="ESPN 4, Canal 440" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd?start={utc}&end={utcend}", 🇲🇽 ESPN 4
+https://retrogrid.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd
+#EXTINF:-1 tvg-id="FOX SPORTS, Canal 441" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/FOX-SPORTS-HD/default.mpd?start={utc}&end={utcend}", 🇲🇽 Fox Sports
+https://retrogrid.izzigo.tv/out/u/startover/dash/FOX-SPORTS-HD/default.mpd
+#EXTINF:-1 tvg-id="FOX SPORTS 2, Canal 442" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/FOX-SPORTS-2-HD/default.mpd?start={utc}&end={utcend}", 🇲🇽 Fox Sports 2
+https://retrogrid.izzigo.tv/out/u/startover/dash/FOX-SPORTS-2-HD/default.mpd
+#EXTINF:-1 tvg-id="FOX SPORTS 3, Canal 443" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/FOX-SPORTS-3-HD/default.mpd?start={utc}&end={utcend}", 🇲🇽 Fox Sports 3
+https://retrogrid.izzigo.tv/out/u/startover/dash/FOX-SPORTS-3-HD/default.mpd
+#EXTINF:-1 tvg-id="FoxSportsPremiumHD.mx, Canal 444" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/FOXSPREMIUM/default.mpd?start={utc}&end={utcend}", 🇲🇽 Fox Sports Premium
+https://retrogrid.izzigo.tv/out/u/startover/dash/FOXSPREMIUM/default.mpd
+#EXTINF:-1 tvg-id="FOX SPORTS, Canal 445" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="Deportes", 🇲🇽 Fox Sports (Amazon)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+#EXTINF:-1 tvg-id="FOX SPORTS 2, Canal 446" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="Deportes", 🇲🇽 Fox Sports 2 (Amazon)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+#EXTINF:-1 tvg-id="FOX SPORTS 3, Canal 447" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="Deportes", 🇲🇽 Fox Sports 3 (Amazon)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+#EXTINF:-1 tvg-id="FoxSportsPremiumHD.mx, Canal 448" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="Deportes", 🇲🇽 Fox Sports Premium (Amazon)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+#EXTINF:-1 tvg-id="PT | Sport TV NBA, Canal 449" tvg-logo="https://www.izzigo.tv/images/ch/308/LOGO/m/0" group-title="Deportes" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/NBACHANNEL/default.mpd?start={utc}&end={utcend}", NBA TV
+https://retrogrid.izzigo.tv/out/u/startover/dash/NBACHANNEL/default.mpd
+#EXTINF:-1 tvg-id="NFL Network, Canal 450" tvg-logo="https://www.izzigo.tv/images/ch/142/LOGO/m/0" group-title="Deportes", NFL Network
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/grfgykc72o/out/v1/3b99d95f4ec44db180e4016db60d82ea/cenc.mpd
+#EXTINF:-1 tvg-id="UK | TNT Sports 1, Canal 451" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/d90c87a7-968b-47b4-bf66-98686bcd043b.png" group-title="Deportes", 🇬🇧 TNT Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-id="UK | TNT Sports 2, Canal 452" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png" group-title="Deportes", 🇬🇧 TNT Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-id="UK | TNT Sports 3, Canal 453" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png" group-title="Deportes", 🇬🇧 TNT Sports 3
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-id="UK | TNT Sports 4, Canal 454" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/174fef29-55ec-48ee-af18-bc4a3011287a.png" group-title="Deportes", 🇬🇧 TNT Sports 4
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-id="IE | Premier Sports 1, Canal 455" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/premier_sports_1._SL170_FM.png" group-title="Deportes", 🇬🇧 Premier Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
+#EXTINF:-1 tvg-id="IE | Premier Sports 2, Canal 456" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/premier_sports_2._SL170_FM.png" group-title="Deportes", 🇬🇧 Premier Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-id="AU | beIN SPORTS 2, Canal 468" tvg-logo="https://media.info/l/o/6/6591.1491350441.png" group-title="Deportes", 🇦🇺 Bein Sports 2
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-id="AU | beIN SPORTS 3, Canal 469" tvg-logo="https://media.info/l/o/6/6592.1491350506.png" group-title="Deportes", 🇦🇺 Bein Sports 3
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/gigxsk0lya/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA ñ, Canal 470" tvg-logo="https://streaming.alwaysdata.net/img/beinsportsxtra.png" group-title="Deportes", beIN SPORTS XTRA En Español
+https://beinxtraespanol-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Ziggo Sport 2, Canal 472" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l9v2ym1728725812.png" group-title="Deportes", 🇳🇱 Ziggo Sport 2
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+#EXTINF:-1 tvg-id="Ziggo Sport 3, Canal 473" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8gk6uj1728725561.png" group-title="Deportes", 🇳🇱 Ziggo Sport 3
+https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
+#EXTINF:-1 tvg-id="Ziggo Sport 4, Canal 474" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ca0zut1728726639.png" group-title="Deportes", 🇳🇱 Ziggo Sport 4
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw523693457_1808344289/PLTV/86/224/3221241652/3221241652.mpd?accountinfo=~~V2.0~u0jaHTa0MTNW18tBSpXw1Ad47f31195be578ee163e34a9e557d481~-tEuN4yI47Z49lA_lxVw3r26rEF-eIM-4N-YRBTnBjXeDlL3yoAcCSTfh367bmnJfe93264045ad9787422349ffe59c4e2f:UTC,
+#EXTINF:-1 tvg-id="Ziggo Sport 6, Canal 476" tvg-logo="https://i.ibb.co/bKFXkv9/ziggosport6.png" group-title="Deportes", 🇳🇱 Ziggo Sport 6
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
+#EXTINF:-1 tvg-id="Матч ТВ, Canal 477" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" group-title="Deportes", 🇷🇺 Match! TV
+https://bl.video.matchtv.ru/media/start/free_75a5e8435ad467488d4222aa29eabe39_hd/17_86669241/952a6c5933a6d2731013eb113aba2351/4809226378.m3u8
+#EXTINF:-1 tvg-id="Матч! Страна, Canal 478" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xvfj7p1641241586.png" group-title="Deportes", 🇷🇺 Match! Strana
+https://bl.video.matchtv.ru/media/start/free_e283ee3cb14d1ae286b0ecdc05e3a687_hd/17_98219345/1821d061602e1364aba25ed5c8429d4e/4795762177.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 1, Canal 479" tvg-logo="https://tvarenaprogram.com/files/img/icons/chanel-01.png" group-title="Deportes", 🇭🇷 Arena Sport 1
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
+#EXTINF:-1 tvg-id="Arena Sport 2, Canal 480" tvg-logo="https://tvarenaprogram.com/files/img/icons/chanel-02.png" group-title="Deportes", 🇭🇷 Arena Sport 2
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
+#EXTINF:-1 tvg-id="Arena Sport 3, Canal 481" tvg-logo="https://tvarenaprogram.com/files/img/icons/chanel-03.png" group-title="Deportes", 🇭🇷 Arena Sport 3
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
+#EXTINF:-1 tvg-id="Arena Sport 4, Canal 482" tvg-logo="https://tvarenaprogram.com/files/img/icons/chanel-04.png" group-title="Deportes", 🇭🇷 Arena Sport 4
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
+#EXTINF:-1 tvg-id="Arena Sport 5, Canal 483" tvg-logo="https://tvarenaprogram.com/files/img/icons/chanel-05.png" group-title="Deportes", 🇭🇷 Arena Sport 5
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
+#EXTINF:-1 tvg-id="Arena Sport 6, Canal 484" tvg-logo="https://tvarenaprogram.com/files/img/icons/chanel-06.png" group-title="Deportes", 🇭🇷 Arena Sport 6
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
+#EXTINF:-1 tvg-id="Arena Sport 7, Canal 485" tvg-logo="https://tvarenaprogram.com/files/img/icons/chanel-07.png" group-title="Deportes", 🇭🇷 Arena Sport 7
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd
+#EXTINF:-1 tvg-id="Arena Sport 8, Canal 486" tvg-logo="https://tvarenaprogram.com/files/img/icons/chanel-08.png" group-title="Deportes", 🇭🇷 Arena Sport 8
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
+#EXTINF:-1 tvg-id="Arena Sport 9, Canal 487" tvg-logo="https://tvarenaprogram.com/files/img/icons/chanel-09.png" group-title="Deportes", 🇭🇷 Arena Sport 9
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
+#EXTINF:-1 tvg-id="Arena Sport 10, Canal 488" tvg-logo="https://tvarenaprogram.com/files/img/icons/chanel-10.png" group-title="Deportes", 🇭🇷 Arena Sport 10
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
+#EXTINF:-1 tvg-id="Tennis Channel, Canal 489" tvg-logo="https://www.tennischannel.com/image/original/6a0e97cb-1392-40a9-95fa-7ddd18ffab41.png" group-title="Deportes", Tennis Channel
+https://amg01444-tennischannelth-tennischannelspain-samsungspain-f7b4o.amagi.tv/playlist/amg01444-tennischannelth-tennischannelspain-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel 2, Canal 490" tvg-logo="https://www.tennischannel.com/image/original/6a0e97cb-1392-40a9-95fa-7ddd18ffab41.png" group-title="Deportes", Tennis Channel 2
+https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca, Canal 491" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN1White16x9._SL170_FMpng_.png" group-title="Deportes", 🇨🇦 TSN 1
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+#EXTINF:-1 tvg-id="TSN2.ca, Canal 492" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN2White16x9._SL170_FMpng_.png" group-title="Deportes", 🇨🇦 TSN 2
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
+#EXTINF:-1 tvg-id="TSN3.ca, Canal 493" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN3White16x9._SL170_FMpng_.png" group-title="Deportes", 🇨🇦 TSN 3
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+#EXTINF:-1 tvg-id="TSN4.ca, Canal 494" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN4White16x9._SL170_FMpng_.png" group-title="Deportes", 🇨🇦 TSN 4
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
+#EXTINF:-1 tvg-id="TSN5.ca, Canal 495" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TSN5White16x9._SL170_FMpng_.png" group-title="Deportes", 🇨🇦 TSN 5
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
+#EXTINF:-1 tvg-id="MTV00s.mx, Canal 496" tvg-logo="https://www.izzigo.tv/images/ch/78/LOGO/m/0" group-title="Musicales", MTV 00s
+https://zap-live1-ott.izzigo.tv/13/out/u/dash/MTV-00-HD/default.mpd
+#EXTINF:-1 tvg-id="MTV80s.mx, Canal 497" tvg-logo="https://www.izzigo.tv/images/ch/89/LOGO/m/0" group-title="Musicales" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/MTV-80S/default.mpd?start={utc}&end={utcend}", MTV 80s
+https://zap-live1-ott.izzigo.tv/14/out/u/dash/MTV-80S-SD/default.mpd
+#EXTINF:-1 tvg-id="ClubMTV.mx, Canal 498" tvg-logo="https://www.izzigo.tv/images/ch/88/LOGO/m/0" group-title="Musicales" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/MTV-DANCE/default.mpd?start={utc}&end={utcend}", Club MTV
+https://zap-live1-ott.izzigo.tv/14/out/u/dash/CLUB-MTV-SD/default.mpd
+#EXTINF:-1 tvg-id="MTVHits.mx, Canal 499" tvg-logo="https://www.izzigo.tv/images/ch/76/LOGO/m/0" group-title="Musicales" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/MTV-HITS/default.mpd?start={utc}&end={utcend}", MTV Hits
+https://zap-live1-ott.izzigo.tv/14/out/u/dash/MTV-HITS-SD/default.mpd
+#EXTINF:-1 tvg-id="MTVLiveHD.mx, Canal 500" tvg-logo="https://www.izzigo.tv/images/ch/661/LOGO/m/0" group-title="Musicales" catchup-type="default" catchup-days="7" catchup-source="https://retrogrid.izzigo.tv/out/u/startover/dash/MTV-LIVE-HD/default.mpd?start={utc}&end={utcend}", MTV Live
+https://zap-live1-ott.izzigo.tv/14/out/u/dash/MTV-LIVE-HD/default.mpd
+#EXTINF:-1 tvg-id="Dorcel TV, Canal 502" tvg-logo="https://dorceltv.com/images/cache/139781/project/front_skeleton/tv/channels/dorceltv/logo_light.png" group-title="Adultos", Dorcel TV
+https://streams.alwaysdata.net/x?ch=dorcel.m3u8
+#EXTINF:-1 tvg-id="Hustler TV, Canal 503" tvg-logo="https://media.tvup.cloud/canales/color_lg_5f5766dfcf6e100064479cd1.png" group-title="Adultos", Hustler TV
+https://streams.alwaysdata.net/x?ch=hustlertv.m3u8
+#EXTINF:-1 tvg-id="Hustler HD, Canal 504" tvg-logo="https://streaming.alwaysdata.net/img/hustlerhd.png" group-title="Adultos", Hustler HD
+https://clm.ahimas.openstream.es/LB-Opensport/smil:155_premium.smil/manifest.mpd?LIVE&type=1&operator=anexiona
+#EXTINF:-1 tvg-id="Blue Hustler, Canal 505" tvg-logo="https://streaming.alwaysdata.net/img/bluehustler.png" group-title="Adultos", Blue Hustler
+https://clm.ahimas.openstream.es/LB-Opensport/smil:181_premium.smil/manifest.mpd?LIVE&type=1&operator=anexiona
+#EXTINF:-1 tvg-id="Playboy TV, Canal 506" tvg-logo="https://www.izzigo.tv/images/ch/188/LOGO/m/0" group-title="Adultos", Playboy
+https://live1-ott.izzigo.tv/12/out/u/dash/PLAYBOY-TV-HD/default.mpd
+#EXTINF:-1 tvg-id="Sextreme.us, Canal 507" tvg-logo="https://www.izzigo.tv/images/ch/189/LOGO/m/0" group-title="Adultos", Sextreme
+https://live1-ott.izzigo.tv/12/out/u/dash/SEXTREME-HD/default.mpd
+#EXTINF:-1 tvg-id="Private.us, Canal 508" tvg-logo="https://streaming.alwaysdata.net/img/private.png" group-title="Adultos", Private
+https://clm.ahimas.openstream.es/LB-Opensport/smil:156_premium.smil/manifest.mpd?LIVE&type=1&operator=anexiona
+#EXTINF:-1 tvg-id="Redlight.us, Canal 509" tvg-logo="https://redlight.tv/wp-content/uploads/2021/08/REDLIGHT-HD-LOGO-1536x323.png" group-title="Adultos", Redlight HD
+https://clm.ahimas.openstream.es/LB-Opensport/smil:157_premium.smil/manifest.mpd?LIVE&type=1&operator=anexiona
+#EXTINF:-1 tvg-id="Venus.us, Canal 510" tvg-logo="https://www.izzigo.tv/images/ch/191/LOGO/m/0" group-title="Adultos", Venus
+https://live1-ott.izzigo.tv/11/out/u/dash/VENUS-HD/default.mpd
+#EXTINF:-1 tvg-id="Brazzers TV Europe, Canal 511" tvg-logo="https://static-landing-assets.project1content.com/P1TOUR/ZZ/zz_default_v0/logo/mo/logo.png" group-title="Adultos", Brazzers TV Europe
+https://streams.alwaysdata.net/x?ch=brazzerstv.m3u8
+#EXTINF:-1 tvg-id="Penthouse.us, Canal 512" tvg-logo="https://www.izzigo.tv/images/ch/190/LOGO/m/0" group-title="Adultos", Penthouse
+https://live1-ott.izzigo.tv/12/out/u/dash/PENTHOUSE-HD/default.mpd
+#EXTINF:-1 tvg-id="Penthouse Gold, Canal 513" tvg-logo="https://penthousetv.com/images/logo_phGold.png" group-title="Adultos", Penthouse Gold
+https://streams.alwaysdata.net/x?ch=penthouse.m3u8
+#EXTINF:-1 tvg-id="Penthouse Passion, Canal 514" tvg-logo="https://penthousetv.com/images/logo_phPassion.png" group-title="Adultos", Penthouse Passion
+https://streams.alwaysdata.net/x?ch=penthousepassion.m3u8
+#EXTINF:-1 tvg-id="Penthouse Reality, Canal 515" tvg-logo="https://penthousetv.com/images/phRealityTV_TEMP.jpg" group-title="Adultos", Penthouse Reality
+https://streams.alwaysdata.net/x?ch=penthousereality.m3u8
+#EXTINF:-1 tvg-id="Satén | Luxury, Canal 517" tvg-logo="https://media.tvup.cloud/canales/color_lg_6572ecbfa139960d20306c6e.png" group-title="Adultos", Satén | Luxury
+https://fast-tcseks01.akamaized.net/fast-channel-satenluxuryvod-08bc8b00/fast-channel-satenluxuryvod-08bc8b00.mpd
+#EXTINF:-1 tvg-id="Satén | Classy, Canal 518" tvg-logo="https://media.tvup.cloud/canales/color_lg_6574305becdeacbbc5953216.png" group-title="Adultos", Satén | Classy
+https://fast-tcseks01.akamaized.net/fast-channel-satenclassyvod-07d2466a/fast-channel-satenclassyvod-07d2466a.mpd
+#EXTINF:-1 tvg-id="Satén | 100% Español, Canal 519" tvg-logo="https://media.tvup.cloud/canales/color_lg_6574311461d408f879e2945b.png" group-title="Adultos", Satén | 100% Español
+https://fast-tcseks01.akamaized.net/fast-channel-saten100espanolvod-cc877d3b/fast-channel-saten100espanolvod-cc877d3b.mpd
+#EXTINF:-1 tvg-id="Vivid TV, Canal 520" tvg-logo="https://streaming.alwaysdata.net/img/vivid.png" group-title="Adultos", Vivid Red
+https://streams.alwaysdata.net/x?ch=vivid.m3u8
+#EXTINF:-1 tvg-id="Extasy, Canal 521" tvg-logo="https://extasy.tv/img/extasy-logo-pro-web.png" group-title="Adultos", Extasy
+https://streams.alwaysdata.net/x?ch=extasy.m3u8
+#EXTINF:-1 tvg-id="EroXXX, Canal 522" tvg-logo="https://streaming.alwaysdata.net/img/eroxxx.png" group-title="Adultos", EroXXX
+https://streams.alwaysdata.net/x?ch=eroxxx.m3u8
+#EXTINF:-1 tvg-id="XXL, Canal 523" tvg-logo="https://ga.dorcel.com/resources/d-header-logo-xxltv-strait/1710490950.png" group-title="Adultos", XXL
+https://streams.alwaysdata.net/x?ch=xxl.m3u8
+#EXTINF:-1 tvg-id="CentoXCento, Canal 524" tvg-logo="https://streaming.alwaysdata.net/img/centoxcento.png" group-title="Adultos", CentoXCento
+https://streams.alwaysdata.net/x?ch=centoxcento.m3u8
+#EXTINF:-1 tvg-id="KinoXXX, Canal 525" tvg-logo="https://streaming.alwaysdata.net/img/kinoxxx.png" group-title="Adultos", KinoXXX
+https://streams.alwaysdata.net/x?ch=kinoxxx.m3u8
+#EXTINF:-1 tvg-id="PassieXXX, Canal 526" tvg-logo="https://streaming.alwaysdata.net/img/passie.png" group-title="Adultos", PassieXXX
+https://streams.alwaysdata.net/x?ch=passie.m3u8
+#EXTINF:-1 tvg-id="FightSports, Canal 351" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png" group-title="Deportes", FightSports
+https://directos.mediaset.es/oripremium03/live/premium03/mpd-cenc/mpd-cenc.isml/.mpd?t=1
+#EXTINF:-1 tvg-id="Baby TV, Canal 381" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/BABY" group-title="Infantiles", Baby TV
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/Baby_tv/__op/dash-wv/__f/manifest.mpd
