@@ -1,0 +1,199 @@
+#EXTM3U
+
+
+#EXTINF:0,capital 21.1
+https://video.cdmx.gob.mx/redes/stream.m3u8
+
+
+
+#EXTINF:0,34.1 mexiquense tv
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w1062781634.m3u8
+
+
+#EXTINF:0,34.2 amx noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w832975286.m3u8
+
+
+#EXTINF:0,presumiendo mexico
+http://streamingcws10.com:1935/telemetrika/videotelemetrika/chunklist_w2099747234.m3u8
+
+
+#EXTINF:0,canal 26 aguasscaliente
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w260340547.m3u8
+
+
+#EXTINF:0,canal 10 chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w1271567294.m3u8
+
+
+
+#EXTINF:0,canal 44 chihuahua
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/chunklist_w2101976114.m3u8
+
+
+#EXTINF:0,tv 4.2 guanajuato cultura
+https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w2048905456_b3428000_sleng.m3u8
+
+
+
+#EXTINF:0,cbtv michoacan
+https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/chunklist_w233916547.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIzIDE6MTY6MTYgUE0maGFzaF92YWx1ZT1TRG9tVW16WXcxdldkdkQ5N3VwdjlnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+
+
+
+#EXTINF:0,michoacan canal 6 medianews tv
+https://5f1af61612fb5.streamlock.net/canal6mich2/videocanal6mich2/chunklist_w119129650.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIzIDE6MjA6MzUgUE0maGFzaF92YWx1ZT1pLyttRnh1STUrS1gwNFdWZnFnbGRnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+
+
+#EXTINF:0,sitse tv cancun 8.1
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+
+
+#EXTINF:0,26 aguascalientes
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
+
+
+
+#EXTINF:0,tvp mazatlan
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w441913863_b1428000_sleng.m3u8
+
+
+
+#EXTINF:0,tvp culiacan
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/chunklist_w650167814_b1428000_sleng.m3u8
+
+
+#EXTINF:0,tvp los mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1109432386_b1428000_sleng.m3u8
+
+
+
+#EXTINF:0,tvp cd obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
+
+
+
+#EXTINF:0,telemax sonora
+http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
+
+
+
+#EXTINF:0,tv mas veracruz
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w224904671.m3u8
+
+
+
+#EXTINF:0,canal 24 sizar zacatecas
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/chunklist_w1159565781.m3u8
+
+#EXTINF:0,frecuencia musical tv
+https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
+
+#EXTINF:0,sicardi tv argentina
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+
+#EXTINF:0,toon google epañol
+https://stream.ads.ottera.tv/cl/260901dabf0dq8meds73e0q9dg/1280x720_3071200_0_f.m3u8?i=475_514
+
+#EXTINF:0,toon google movies
+https://stream.ads.ottera.tv/cl/260901dabf35hkep0s73e5avm0/1280x720_2300000_0_f.m3u8?i=475_285
+
+
+
+#EXTINF:0,canal 4 sanjuan srgentina
+http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
+
+
+
+
+#EXTINF:0,caracola tv chile
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8?nimblesessionid=381112085
+
+
+
+#EXTINF:0,neo tv dijital argentina
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
+
+#EXTINF:0,nettv
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=516902749
+
+
+#EXTINF:0,norte informativo tv costarica
+https://videohd.live:19360/8076/8076.m3u8
+
+
+#EXTINF:0,telesur costarica
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:0,bjgtjme argentina
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/7f3119bb-c909-4948-a10a-91aebd262e4e/2.m3u8
+
+
+#EXTINF:0,extrematv costarica
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w686347625.m3u8
+
+
+
+#EXTINF:0,teletrak chile
+
+http://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?nimblesessionid=516931259
+
+
+#EXTINF:0,caras tv
+https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8
+
+
+#EXTINF:0,estrellanews
+https://estrellanews-samsung-us.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:0,campus tv talca
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/campustv/livestream0/chunks.m3u8?nimblesessionid=178734204
+
+#EXTINF:0,chile chanel
+https://v2.tustreaming.cl/chilechannel/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:0,decimatv
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/decimatv/livestream1/chunks.m3u8?nimblesessionid=442522523
+
+
+#EXTINF:0,amc español
+https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
+
+#EXTINF:0,nuestro cine
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/chunklist_w1340719361.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjYgMTowODoxMSBQTSZoYXNoX3ZhbHVlPW1XSFhBOG1RQTJ2WEdYUDV0Uy9zOGc9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9
+
+
+#EXTINF:0,megacinetv
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,azteca honduras
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/60b56be1000ea50835fa1e63/linear/hls/pa/event/2tBalxaHTg-QN-GgSPzs-g/stream/b1e20497-fad6-4333-abc9-271a044a5918:CBF2/variant/04c865650aa119c672451756b970f008/bandwidth/1623600.m3u8?aid=5fea09a071a9945deebf5f7c&adInsertionGoogleStreamId=b1e20497-fad6-4333-abc9-271a044a5918%3ACBF2&pid=PfyCPuf3AnOQwvFw0b5yBfpfuAnwagqc&sid=BYaifQe7VEf2e2ozrnbS4tzSivbvkcB6&uid=HBPul5vud88w9IG4M2G5GavTDxZ8bb1v&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1788366831723&ot=-v5lK8eQuPWs3xD_hTHkxw&proto=https&pz=us&access_token=TowSQoQYyRMDbgbJYNQqgqvBxflahCQUzJd9imSe0X2O4ibwLSpOk7QuGRnVFa551s1Zhb9iFHn
+
+
+#EXTINF:0,3 inprecionnante
+https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
+
+#EXTINF:0,las estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
+
+#EXTINF:0,el chaco 
+https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0,trc
+https://5f1af61612fb5.streamlock.net/trc/videotrc/chunklist_w1796891762.m3u8
+
+
+
+
+
+
+
+
+
+
+
