@@ -1,0 +1,38 @@
+#EXTM3U
+
+
+
+#EXTINF:0,contacto tv
+https://live.obslivestream.com/contactotv/tracks-v1a1/mono.m3u8?token=qifAI4jk7pDF4cF08cZqVjeaOru9PU6r1xw39zpb
+
+http://142.54.160.186/auth/IcOQgTtveDJMpw1KUHHRMPp-xz9peN52jx2YztDJEoeI4NQOqyuaQXWhE6PGUFsE2-uwsQrFrxExX1zBlCZXUA49Ab1xiNAlg8UbvWRU8PLB_gyW0NSrZW0Jj71d-BUlj7NRJex_eZiVACLST7eQEDkZA2IF-rtfjLUp_EUbzZHDNdhZfZhyt3kDPxMNxP19xcRJP_VqMywJEH1d5hqz-A7Eck8EFS7hFNgL_6NHjviNyApVMTZqUWncgt1ElIrBLRBrJ9WSAvTZtKwdcUxWHQLvQYdNSMzkLXDCZrjHTYtbMPWB4GXvx88-oVdYe7fRZWb3qbqKoitEM9FM3FfN6WoMwxnN1dEtIuY2-Yfv3pTNlmcHsS0r8WeqFWlzB2dOJXx0sjfbPaK7lP1gygE0AcY3bY5dOkRKb9Vwn_YJB4WbMqUfYPANGGJkkK0AUlW97SarmX6tQa2a-_4dCDKF9Lq1M1Lc511DCmvxhuUvOB2Awbr0zLeUSe8xYw6RBuCvETzqbufaAXLhC8uCOO8Hftrs9iD3ktFTTQfR4Vnva95YfX2HNCw_l2OtKbCScRBL6nis17lLigJjLM_-TC4psURyuAQwxTFtjPSKKQgUm2IaQWTDcs6l4b4whFk4VFivuRoQO0BLdNILGbj5HRXarg
+
+#EXTINF:0,zeleve
+https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+
+#EXTINF:0,maxtv
+https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+
+#EXTINF:0,wayra tv
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
+
+#EXTINF:0,unitel tv
+https://live-evg11.tv360.bitel.com.pe/bitel/uniteltvSRT/chunks.m3u8
+
+#EXTINF:0,telelima
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+
+#EXTINF:0,tarapototv
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/chunks.m3u8
+
+#EXTINF:0,tv+chincha
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+
+#EXTINF:0,al dia tv
+https://live-evg11.tv360.bitel.com.pe/bitel/aldiatvSRT/chunks.m3u8?manifestfilter=video_bitrate:1-10000000
+
+#EXTINF:0,elias pina tv
+https://cloud2.streaminglivehd.com:1936/8078/8078/chunklist_w2069038969.m3u8
+
+#EXTINF:0,distrito comedia
+http://142.54.160.186/auth/IcOQgTtveDJMpw1KUHHRMPp-xz9peN52jx2YztDJEoeI4NQOqyuaQXWhE6PGUFsE2-uwsQrFrxExX1zBlCZXUA49Ab1xiNAlg8UbvWRU8PJ-RFhZIS8nxqKD3VwxfHAk_rxbhoio_k-VWPAsHf9mqtrbgdjBaxp6lbgW9xbzppgZmnKdcZ0XztILuDxgZFFHJtaViPXRnwUG8V9rbfjs1qQ2P_OuoRsz5bfQkfhuc9bfd8rSaKjIJksRhu74-BElJkRAOEQ8Vuer682s-ItXHrtVOFMfi1I1iLo_EFktFiCQ56sTBMOgy0b-odhqu_e7t_vvdaPdJu8b7ZNpAmbV1F6_RkKOBTbqs9AXK9fwTPZspBBuqhOfL1RCcADYlRzpNIKpLupYeV0a5e0Hpt5FDJRH1isQulkpPng6ej5AM7k2-yK0soim5luADINfQXG8QRSyLqP0OMa1nzve-Scdi4YHWGzPkn5bshZGnDXnt-cvzLLvNmq7b9a0m8R0N1r7Y8vL2hYudUtVvQzlZnCKk-GXQUD6aJqcqENt--r8rRszBvdexWGvJxDnUGA-X5IjbM_g_0z3JM4dj9IowQHI5kzhT2TRM9u64i78C8XuZ5gr8yhLgplPMWAKJpoXc9FZGNQXd8jojhjgAcXuM3f0ow
